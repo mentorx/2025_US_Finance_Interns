@@ -8,10 +8,15 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 10-27_
+_Last updated: 10-29_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Finance Analyst Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=2b0a7d0c6dd73865&tk=1ib8mq13jiufl83a&from=serp&vjs=3) | Jack Henry & Associates | Lenexa, KS | Financial analysis, Data management, Variance analysis, Budgeting, Microsoft Excel, Critical thinking, Attention to detail, Teamwork, Communication | 10-28 | <!-- JobID: r9oH7j6X8D -->
+| [MBA Strategy & Finance Internship 2025](https://www.indeed.com/viewjob?jk=25694bc0b1e3e176&tk=1ib8p49d7i9e680s&from=serp&vjs=3) | E. & J. Gallo | Modesto, CA 95354 | Financial Analysis, Strategic Planning, Leadership, Analytical Problem-Solving, Presentation Skills | 10-28 | <!-- JobID: OpC1AUDNM2 -->
+| [2025 Gerald Internship Program](https://www.indeed.com/viewjob?jk=5f5d1c4236aa1eee&tk=1ib8ivsdmi94u89l&from=serp&vjs=3) | Gerald Group | Stamford, CT 06901 | analytical skills, attention to detail, organizational skills, problem-solving skills, written communication, verbal communication, MS Office proficiency, advanced Excel skills, self-starter, teamwork | 10-28 | <!-- JobID: WUhCMBNmSI -->
+| [Finance Intern, Spring 2025](https://www.indeed.com/viewjob?jk=ea0b74b8cd145ee7&tk=1ib8p7vqr21jp000&from=serp&vjs=3) | Disney Experiences | Lake Buena Vista, FL | Financial modeling, Communication skills, Organizational skills, Analytical skills, Microsoft Excel, Teamwork, Creative thinking, Digital literacy, Budgeting, SAP | 10-28 | <!-- JobID: 6woWWqyqKh -->
+| [Credit Analyst Program (Commercial Real Estate) - Summer 2025 Start](https://www.indeed.com/viewjob?jk=9a0fb8c7a429c777&tk=1ib8iehs9i9e687i&from=serp&vjs=3) | Associated Bank | St. Louis, MO | credit risk analysis, financial modeling, underwriting, business writing, cash flow analysis, valuation, portfolio management, relationship banking, networking, mentorship | 10-27 | <!-- JobID: in3h95vlI5 -->
 | [2025 Summer Analyst, Investor Relations](https://www.indeed.com/viewjob?jk=02e1e80cd566b2d1&tk=1ib368u04i8q389r&from=serp&vjs=3) | Obra Capital, Inc | New York, NY 10065 (Upper East Side area) | communication skills, problem-solving abilities, MS Excel, attention to detail, teamwork, writing skills | 10-25 | <!-- JobID: BwyxYOxumQ -->
 | [Financial Analyst Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=64bd2d4dd2ace4d6&tk=1ib36pp2ei8q88fu&from=serp&vjs=3) | Centerspace, LP | Hybrid work in Minneapolis, MN 55402 | Financial Analysis, Financial Planning, Microsoft Excel, Analytical Skills, Verbal Communication, Written Communication, Organizational Skills, Mathematical Skills, Problem Solving | 10-25 | <!-- JobID: 2APVeO2GV4 -->
 | [Disney Entertainment Television Finance Intern, Summer 2025](https://www.indeed.com/viewjob?jk=6fa751c79c82842c&tk=1ib36a7slgb2l88i&from=serp&vjs=3) | The Walt Disney Company (Corporate) | Los Angeles, CA | Finance, Accounting, Business Administration, Data analytics, Microsoft Excel, Microsoft PowerPoint, Critical thinking, Detail-oriented, Strong written and oral communication, Collaborative mindset | 10-25 | <!-- JobID: msscnTEevD -->
