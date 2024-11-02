@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 10-31_
+_Last updated: 11-01_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Corporate Intern - Treasury - Summer 2025 (Hybrid Green Bay)](https://www.indeed.com/viewjob?jk=c108e4e006d4f346&tk=1ibl796o9j73m81h&from=serp&vjs=3) | Associated Bank | Green Bay, WI | financial analysis, reporting, data analysis tools, Excel, SQL, communication, problem-solving, budgeting, forecasting | 11-01 | <!-- JobID: FHIkQDERM9 -->
+| [2025 Summer Associate – Real Estate, Lodging & Leisure – New York](https://www.indeed.com/viewjob?jk=c62bf3c91361ef76&tk=1ibilfiqhj73a8ma&from=serp&vjs=3) | Houlihan Lokey | New York, NY | financial modeling, analytical abilities, real estate valuation, communication skills, accounting knowledge, problem-solving, organizational skills, multitasking | 10-31 | <!-- JobID: nqejkojZGu -->
 | [Credit Risk Model Intern- Summer 2025](https://www.indeed.com/viewjob?jk=bf3c1b33bfee6030&tk=1ibil1mvri97u8a9&from=serp&vjs=3) | Stifel | St. Louis, MO | data analysis, statistical analysis, data cleaning, data transformation, data preprocessing, attention to detail, collaboration, documentation, report development, research | 10-31 | <!-- JobID: Bo2W38yGKF -->
 | [System Financial Team Internship Spring Semester 2025](https://www.indeed.com/viewjob?jk=9306cda34e79d373&tk=1ibil9pr72dir001&from=serp&vjs=3) | Indiana University Health | Indianapolis, IN (Downtown area) | Data Analysis, Project Management, Excel, PowerBI, Financial Reporting, Budget Management, Compliance Knowledge, Communication | 10-31 | <!-- JobID: IHRr3EDPgy -->
 | [Valuation Intern \| Spring 2025](https://www.indeed.com/viewjob?jk=265d4cb3530c5a22&tk=1ibil9pr72dir001&from=serp&vjs=3) | CBIZ | Bellevue, WA | Microsoft Office, time management, multi-tasking, business valuation, corporate finance | 10-31 | <!-- JobID: yjchXPqDHT -->
