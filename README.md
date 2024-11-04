@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 11-01_
+_Last updated: 11-03_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 Financial Planning Analyst Intern - Linthicum MD](https://www.indeed.com/viewjob?jk=acddbebc0f781150&tk=1ibqgh1ru2rt30j6&from=serp&vjs=3) | Northrop Grumman | Linthicum, MD | Financial Analysis, Business Acumen, Accounting, Communication, Teamwork, Analytical Skills | 11-03 | <!-- JobID: Y382QyCItP -->
+| [Sustainable Finance Analyst Summer Internship Program 2025 New York City](https://www.indeed.com/viewjob?jk=8c2a72f95ac526f2&tk=1ibl7dqh4k3dj803&from=serp&vjs=3) | Barclays | New York, NY 10019 (Midtown area) | finance, business analysis, teamwork, resourcefulness, enthusiasm, entrepreneurial spirit, sustainability expertise, risk management, communication, problem-solving | 11-01 | <!-- JobID: HhjmJJvuen -->
 | [Corporate Intern - Treasury - Summer 2025 (Hybrid Green Bay)](https://www.indeed.com/viewjob?jk=c108e4e006d4f346&tk=1ibl796o9j73m81h&from=serp&vjs=3) | Associated Bank | Green Bay, WI | financial analysis, reporting, data analysis tools, Excel, SQL, communication, problem-solving, budgeting, forecasting | 11-01 | <!-- JobID: FHIkQDERM9 -->
 | [2025 Summer Associate – Real Estate, Lodging & Leisure – New York](https://www.indeed.com/viewjob?jk=c62bf3c91361ef76&tk=1ibilfiqhj73a8ma&from=serp&vjs=3) | Houlihan Lokey | New York, NY | financial modeling, analytical abilities, real estate valuation, communication skills, accounting knowledge, problem-solving, organizational skills, multitasking | 10-31 | <!-- JobID: nqejkojZGu -->
 | [Credit Risk Model Intern- Summer 2025](https://www.indeed.com/viewjob?jk=bf3c1b33bfee6030&tk=1ibil1mvri97u8a9&from=serp&vjs=3) | Stifel | St. Louis, MO | data analysis, statistical analysis, data cleaning, data transformation, data preprocessing, attention to detail, collaboration, documentation, report development, research | 10-31 | <!-- JobID: Bo2W38yGKF -->
