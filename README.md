@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 11-15_
+_Last updated: 11-17_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Disney Entertainment Transformation Finance Intern, Summer 2025](https://www.indeed.com/viewjob?jk=67e2a9316a23ae22&tk=1icuhfpph2bpp09s&from=serp&vjs=3) | Disney Entertainment | Burbank, CA | Finance, Accounting, Business Administration, Data analytics, Microsoft Excel, PowerPoint, Data Visualization, Business Intelligence Tools, Critical thinking, Strong written and oral communication skills | 11-17 | <!-- JobID: aH1mnW4yZ4 -->
+| [Investments Intern - Summer 2025](https://www.indeed.com/viewjob?jk=b7df7f0d9b3d16a6&tk=1icpc2ufv24s00a8&from=serp&vjs=3) | Garrett Internship Program (GIP) | Nashville, TN | Excel skills, financial modeling, market research, written communication, verbal communication, problem-solving, teamwork, attention to detail, organizational skills, proactive attitude | 11-15 | <!-- JobID: JkWtsdDltQ -->
+| [Financial Analyst Internship - Spring 2025](https://www.indeed.com/viewjob?jk=5e598d052f43d20f&tk=1icpcj4f7k3cn86s&from=serp&vjs=3) | MADHOUSE DEVELOPMENT SERVICES | Austin, TX 78759 | Microsoft Office, Excel, Accounting principles (GAAP), Communication skills, Organizational skills, Analytical skills, Problem-solving skills, Presentation skills, Collaboration, Detail-oriented | 11-15 | <!-- JobID: FMSKXRDVvW -->
 | [2025 Capital Markets, GRM Credit Risk Summer Analyst](https://www.indeed.com/viewjob?jk=6056245262272458&tk=1icpcgfgsk3db877&from=serp&vjs=3) | Royal Bank of Canada | New York, NY 10281 (Battery Park area) | financial modeling, credit risk analysis, due diligence, data analysis, communication skills, teamwork, proficiency in Word, Excel, PowerPoint, programming (VBA, Python) | 11-15 | <!-- JobID: 6AJ33QjB55 -->
 | [2025 \| Americas \| Dallas \| Asset Management, Monitoring & Testing \| Summer Analyst](https://www.indeed.com/viewjob?jk=4e3757304b69ebbc&tk=1icpcf58kia7282f&from=serp&vjs=3) | Goldman Sachs | Dallas, TX 75201 (Uptown area) | Investment Management, Financial Analysis, Client Advisory, Data Analysis, Communication, Team Collaboration | 11-15 | <!-- JobID: FV2lBDBCo9 -->
 | [Corp Analytics & Planning Intern - Summer 2025](https://www.indeed.com/viewjob?jk=41361019bc14e45e&tk=1icpc4pnoi9t785e&from=serp&vjs=3) | Orlando Utilities Commission | Orlando, FL 32839 (Millenia area) | Accounting Principles, Financial analysis, Financial reporting, Discounted cash flow, Regression Analysis, Presentations, Management Reports, Excel, PowerPoint, Access, SQL, Data Analytics, Attention to detail, Communication skills, Teamwork and collaboration | 11-15 | <!-- JobID: xTym1OSPhe -->
