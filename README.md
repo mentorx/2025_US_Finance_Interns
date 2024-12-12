@@ -8,10 +8,14 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 12-09_
+_Last updated: 12-11_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 KeyCorp Summer Internship – Structured Finance – Superior, CO](https://www.indeed.com/viewjob?jk=70f431f159b29865&tk=1ierqenc7l51o89t&from=serp&vjs=3) | KeyBank | Superior, CO 80027 | Microsoft Office applications, Excel, Analytical skills, Decision-making skills, Logic skills, Teamwork, Leadership | 12-11 | <!-- JobID: zxwEFfMjOw -->
+| [2025 Summer Intern – CM&A Chief Operating Officer (Boston)](https://www.indeed.com/viewjob?jk=64fd221380f1332c&tk=1ierqenc7l51o89t&from=serp&vjs=3) | Citizens | Boston, MA 02109 (Downtown area) | Analytical skills, MS Office proficiency, Finance knowledge, Accounting knowledge, Economics knowledge | 12-11 | <!-- JobID: JWEWcGVGEO -->
+| [Capital Markets Associate (Spring Co-Op 2025)](https://www.indeed.com/viewjob?jk=78d4c6b643bbf545&tk=1ierrkcm4kgor81a&from=serp&vjs=3) | Housing Partnership Network | Boston, MA 02108 (Government Center area) | impact finance, affordable housing, analytical skills, quantitative skills, Microsoft Excel, PowerPoint, organizational skills, communication skills | 12-11 | <!-- JobID: tHKav4f3OR -->
+| [Universal Destinations & Experiences Summer 2025 Internship - Finance](https://www.indeed.com/viewjob?jk=7b6aba14899a9ff2&tk=1iemuu2h92c340aa&from=serp&vjs=3) | Universal Studios Hollywood | Universal City, CA 91608 | Finance, Accounting, Financial Analysis, Cost Optimization, Process Improvement, Strong Computer Skills, Excel, PowerPoint, Communication Skills, Interpersonal Skills, Problem Solving | 12-09 | <!-- JobID: YVhDlgAlil -->
 | [2025 Investment Banking Summer Analyst, Power & Utilities/Clean Tech Energy - Houston](https://www.indeed.com/viewjob?jk=0a9df37d471fec11&tk=1iemihtr6j72n8a9&from=serp&vjs=3) | Scotiabank | Houston, TX | Financial analysis, Quantitative skills, Written communication, Verbal communication, Attention to detail, Project management, Teamwork, Adaptability, Integrity, Decision making | 12-09 | <!-- JobID: am6S6gctIb -->
 | [Investments Intern - Summer 2025](https://www.indeed.com/viewjob?jk=d4a1527f596dd504&tk=1iemmq0ofh75n83b&from=serp&vjs=3) | Garrett Internship Program (GIP) | Denver, CO 80237 | Excel skills, financial modeling, market research and analysis, written and verbal communication, problem-solving skills, teamwork, attention to detail | 12-09 | <!-- JobID: x18aoQJoJH -->
 | [Treasury/Sales Audit & Tax Intern (2025 Semester 1) - Generation H](https://www.indeed.com/viewjob?jk=c518f61fe899ca4b&tk=1iehejr25h72085o&from=serp&vjs=3) | Hermès Paris | New York, NY (Financial District area) | Excel, SAP, Retail POS software, Balance sheet reconciliations, Tax filing, Analytical skills, Communication skills | 12-07 | <!-- JobID: 6FBb8GN1aX -->
