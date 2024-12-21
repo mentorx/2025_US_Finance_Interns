@@ -8,10 +8,14 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 12-19_
+_Last updated: 12-21_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Operations Finance Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=c514abb6adf1766e&tk=1ifkn87l42c380ah&from=serp&vjs=3) | Legrand North America | West Hartford, CT 06110 | Interpersonal skills, Financial acumen, Data analysis, Written communication, Verbal communication, MS Excel, Positive attitude, Ethics and values, Presentation skills | 12-21 | <!-- JobID: EWm2fD2vPE -->
+| [Capital Markets Graduate Internship, Summer 2025](https://www.indeed.com/viewjob?jk=bf55d1d0d28b4b56&tk=1iffi4jcr2es3071&from=serp&vjs=3) | Ameriprise Financial | Minneapolis, MN | Python, Data Analysis, Analytical Skills, Communication Skills, Organizational Skills, Financial Modeling, Statistical Modeling | 12-19 | <!-- JobID: pvkAX79vPG -->
+| [Undergraduate Summer Scholar, Financial Analyst - Summer 2025](https://www.indeed.com/viewjob?jk=800534014edb85df&tk=1iffq9u9q2cs000i&from=serp&vjs=3) | Barry's | Omaha, NE 68154 | Analytical skills, Communication skills, Time management, Interpersonal skills, Organizational skills, Financial modeling, Budgeting and forecasting | 12-19 | <!-- JobID: fLZcqlD1bk -->
+| [Capital Markets Graduate Internship, Summer 2025](https://www.indeed.com/viewjob?jk=cf437f4844bb4e70&tk=1ifg0tro9j0rl889&from=serp&vjs=3) | Ameriprise Financial | Minneapolis, MN | Python, Data Analysis, Analytical Skills, Communication Skills, Organizational Skills, Financial Modeling | 12-19 | <!-- JobID: EoYPUpzjk6 -->
 | [Associate (Intern - Spring 2025), Aircraft Financial & Technical Services](https://www.indeed.com/viewjob?jk=ea976c02cba1bdab&tk=1iffpmvrk2bpi079&from=serp&vjs=3) | Alton Aviation Consultancy | New York, NY 10016 | Analytical mindset, Problem-solving skills, Finance fundamentals, Microsoft Excel, Programming skills, Microsoft VBA, Python, Communication skills, Attention to detail, Team-oriented | 12-19 | <!-- JobID: RqIgvaKBPp -->
 | [Summer 2025 Undergraduate Investment Analyst Intern (Non-CMU Student) - Investment Office](https://www.indeed.com/viewjob?jk=7b60e0f9f37528e1&tk=1iffednmhkgpo89k&from=serp&vjs=3) | Carnegie Mellon University | Pittsburgh, PA 15213 (Squirrel Hill North area) | Microsoft Office, written and verbal communication, analytical skills, investment management concepts, research skills, interpersonal skills | 12-19 | <!-- JobID: wntCRIPFFE -->
 | [Financial Planning and Analysis Intern - Summer 2025](https://www.indeed.com/viewjob?jk=74a41a1a360053f3&tk=1iff7brip2es309d&from=serp&vjs=3) | Marsh, Berry & Company, LLC | Hybrid work in Woodmere, OH 44122 | Financial analysis, Reporting, Forecasting, Financial modeling, Microsoft Excel, Communication skills, Analytical skills | 12-19 | <!-- JobID: WYBv9hjCqP -->
