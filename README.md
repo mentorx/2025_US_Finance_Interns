@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 12-21_
+_Last updated: 12-23_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 Corporate, Investment Banking and Markets (CIBM) Summer Analyst Program \| New York](https://www.indeed.com/viewjob?jk=d21810c2b063e6d1&tk=1ifphlns7g37g8a5&from=serp&vjs=3) | MUFG Bank, Ltd. | Hybrid work in San Francisco, CA | Financial analysis, Modeling, Research, Microsoft Office (Excel, PowerPoint, Word), Verbal communication, Writing skills, Mathematical skills, Statistical skills, Interpersonal skills, Leadership qualities, Creative solutions | 12-23 | <!-- JobID: dVGEv8KOv3 -->
+| [Capital Markets Graduate Internship, Summer 2025](https://www.indeed.com/viewjob?jk=27d1b78662331bd6&tk=1ifq0jk2ik8gq88r&from=serp&vjs=3) | Ameriprise Financial | Minneapolis, MN | Python, Data Analysis, Analytical Skills, Communication Skills, Organizational Skills, Financial Modeling | 12-23 | <!-- JobID: xyM29m94Rd -->
+| [2025 \| Americas \| Los Angeles \| Investment Banking \| Summer Associate](https://www.indeed.com/viewjob?jk=09fa9de40751dce4&tk=1ifpl6am4gbme8a5&from=serp&vjs=3) | Goldman Sachs | Los Angeles, CA | Investment Banking, Strategic Advice, Financing Solutions, Mergers and Acquisitions, Risk Management, Client Relationship Management | 12-23 | <!-- JobID: hOr4c6fl9D -->
 | [Operations Finance Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=c514abb6adf1766e&tk=1ifkn87l42c380ah&from=serp&vjs=3) | Legrand North America | West Hartford, CT 06110 | Interpersonal skills, Financial acumen, Data analysis, Written communication, Verbal communication, MS Excel, Positive attitude, Ethics and values, Presentation skills | 12-21 | <!-- JobID: EWm2fD2vPE -->
 | [Capital Markets Graduate Internship, Summer 2025](https://www.indeed.com/viewjob?jk=bf55d1d0d28b4b56&tk=1iffi4jcr2es3071&from=serp&vjs=3) | Ameriprise Financial | Minneapolis, MN | Python, Data Analysis, Analytical Skills, Communication Skills, Organizational Skills, Financial Modeling, Statistical Modeling | 12-19 | <!-- JobID: pvkAX79vPG -->
 | [Undergraduate Summer Scholar, Financial Analyst - Summer 2025](https://www.indeed.com/viewjob?jk=800534014edb85df&tk=1iffq9u9q2cs000i&from=serp&vjs=3) | Barry's | Omaha, NE 68154 | Analytical skills, Communication skills, Time management, Interpersonal skills, Organizational skills, Financial modeling, Budgeting and forecasting | 12-19 | <!-- JobID: fLZcqlD1bk -->
