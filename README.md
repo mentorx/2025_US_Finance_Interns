@@ -8,10 +8,15 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 12-25_
+_Last updated: 01-03_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Financial Planning and Analysis (FP&A) Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=bc9b582e54bf32ec&tk=1igk984vugee7800&from=serp&vjs=3) | Lyft | Hybrid work in San Francisco, CA 94110 | Accounting principles, Financial planning and analytics, Financial systems (Anaplan, Tableau, Oracle ERP or similar), Communication skills, Ability to thrive in a startup environment | 01-02 | <!-- JobID: TRIDHj2Jud -->
+| [Financial Planning and Analysis Intern - Summer 2025](https://www.indeed.com/viewjob?jk=332ccbf0d43cc011&tk=1igk984vugee7800&from=serp&vjs=3) | Perdue Farms | Salisbury, MD 21801 | Microsoft Office, Excel, Analytical skills, Communication skills, Time Management skills, Data visualization, PowerBI | 01-02 | <!-- JobID: GXPrDUNXFe -->
+| [FP&A Intern, Summer 2025](https://www.indeed.com/viewjob?jk=599861e83664940b&tk=1igk984vugee7800&from=serp&vjs=3) | Stride, Inc. | Remote | Financial modeling, Financial analysis, Collaboration, Analytical skills, Communication skills, Problem-solving skills, Microsoft Office | 01-02 | <!-- JobID: rFO9EJDybC -->
+| [Intern the Otsuka Way 2025 - Financial Analyst, Pricing & Contracting Intern](https://www.indeed.com/viewjob?jk=b054710fa807c88f&tk=1igkq50mckgou8a3&from=serp&vjs=3) | Otsuka | Princeton, NJ 08540 | data analysis, software proficiency, excellent communication, interpersonal skills, teamwork, creative problem solving, eagerness to learn | 01-02 | <!-- JobID: MiyfCZZANk -->
+| [2025 \| Americas \| Houston \| Investment Banking \| Summer Associate](https://www.indeed.com/viewjob?jk=f8e733012f8ae003&tk=1igkgbtd9gmss80q&from=serp&vjs=3) | Goldman Sachs | Houston, TX | Investment Banking, Strategic Advice, Financing Solutions, Mergers and Acquisitions, Risk Management, Client Relationship Management | 01-02 | <!-- JobID: U6TACrlV8h -->
 | [Economic Research Intern – Summer 2025](https://www.indeed.com/viewjob?jk=29ac2297da98ddb6&tk=1ifv0dbgbgmsl8h6&from=serp&vjs=3) | John Hancock | Boston, MA | data analysis, market research, financial analysis, Excel proficiency, communication skills, collaboration, public speaking | 12-25 | <!-- JobID: Jgmy3SeKuh -->
 | [Strategic Relationships and Investment Specialist Intern – Summer 2025](https://www.indeed.com/viewjob?jk=048066856659d202&tk=1ifv1m14dgc3382t&from=serp&vjs=3) | John Hancock | Boston, MA | Market Research, Data Analysis, Strategic Planning, Communication Skills, Problem-Solving, Organizational Skills, Critical Thinking, Attention to Detail, Time Management, Collaboration | 12-25 | <!-- JobID: lW23rXJjWM -->
 | [2025 Summer Analyst - Portfolio & Asset Management (Minneapolis)](https://www.indeed.com/viewjob?jk=45f079ba027f33bb&tk=1ifummk69gmvv82a&from=serp&vjs=3) | Northmarq | Minneapolis, MN 55402 | Analytical skills, Customer service, Microsoft Outlook, Microsoft Excel, Microsoft Word, Oral communication, Written communication, Organizational skills, Prioritization skills, Problem-solving skills, Attention to detail, Ability to work independently, Ability to work in a team | 12-25 | <!-- JobID: uH9GjM9y1c -->
