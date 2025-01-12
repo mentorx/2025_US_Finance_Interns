@@ -8,10 +8,14 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-09_
+_Last updated: 01-11_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 Emerging Talent Summer Experience - Campbell Timberland Finance Intern](https://www.indeed.com/viewjob?jk=a5b24ba333c82cf1&tk=1ihbj17tc2h2803h&from=serp&vjs=3) | JPMorganChase | Portland, OR 97201 | Financial modeling, Microsoft Excel, Analytical skills, Interpersonal communication, Teamwork, Complex problem solving | 01-11 | <!-- JobID: GdqYMn1lkE -->
+| [Summer 2025 Pricing Strategy Internship](https://www.indeed.com/viewjob?jk=35c00b4bc59f37c9&tk=1ihbarm6lgeed8a7&from=serp&vjs=3) | T-Mobile USA, Inc. | Bellevue, WA 98006 | Problem Solving, Analytics, Financial Analysis, Executive Level Presentations, Communication | 01-11 | <!-- JobID: l0dX1RRco6 -->
+| [Commercial Finance Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=b302c2f81ed3ee33&tk=1ihblcubok8i88gq&from=serp&vjs=3) | Zurn Elkay Water Solutions | Milwaukee, WI 53204 | Microsoft Office applications, Excel skills (pivot tables and macros), Business Insight, Problem-solving, Accountability, Trust and integrity | 01-11 | <!-- JobID: CS6qz9pl4Q -->
+| [IMMEDIATE Opening FINANCE CO-OP - SPRING 2025](https://www.indeed.com/viewjob?jk=8ff984b80b7b69d5&tk=1ih66gbvb20ch003&from=serp&vjs=3) | Tire Discounters | Cincinnati, OH 45202 | Accounting principles, Financial procedures, Microsoft Office Suite, Excel, Analytical skills, Problem-solving skills, Attention to detail, Communication skills, Organizational skills, Time-management skills | 01-09 | <!-- JobID: EdXHFukLAm -->
 | [2025 BD Summer Internship Program - Finance Summer Analyst](https://www.indeed.com/viewjob?jk=0278b3ce95d86dd4&tk=1ih6b16brgc21827&from=serp&vjs=3) | BD | Franklin Lakes, NJ | Finance, Accounting, Business, Healthcare Management, Leadership, Communication, Adaptability, Initiative, Results-oriented | 01-09 | <!-- JobID: eboDufmWEz -->
 | [Internship - Finance, General (Summer 2025)](https://www.indeed.com/viewjob?jk=e8e24930a0ef5085&tk=1ih6gmsv4ia6987q&from=serp&vjs=3) | BioMed Realty | San Diego, CA | Excel, PowerPoint, Financial analysis, Market research, Attention to detail, Organizational skills, Teamwork | 01-09 | <!-- JobID: lcl5a4PxyW -->
 | [Trade Operations Summer Associate 2025](https://www.indeed.com/viewjob?jk=55a3a85db8d9a682&tk=1ih6gpspagc2j800&from=serp&vjs=3) | Arena Investors I Quaestor Advisors | New York, NY | Microsoft Excel, VBA, Attention to detail, Communication, Collaboration, Integrity and ethical standards, Self-motivation, Resourcefulness, Positive attitude, Strong work ethic | 01-09 | <!-- JobID: fe18DjK51D -->
