@@ -8,10 +8,15 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-11_
+_Last updated: 01-13_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Summer 2025 Internship - Houston Coverage Intern](https://www.indeed.com/viewjob?jk=34e8851f7ff4c4cb&tk=1ihgjk4gkgbkt84f&from=serp&vjs=3) | Crédit Agricole CIB | Houston, TX | financial analysis, financial modeling, communication skills, accounting knowledge, Excel, PowerPoint, Word, risk/return analysis | 01-13 | <!-- JobID: 3wvX4p1GTb -->
+| [2025 Emerging Talent Summer Experience - Campbell Global Resource & Valuation Solutions](https://www.indeed.com/viewjob?jk=a34294e3995fd650&tk=1ihbe5mhagc3n85h&from=serp&vjs=3) | JPMorganChase | Portland, OR 97201 | Quantitative analysis, Interpersonal communication, Team skills, SQL, R, Microsoft Office suite, GIS, Remote sensing applications | 01-11 | <!-- JobID: LfCdYEXvP1 -->
+| [2025 Summer MBA Intern – Equity (Fundamental Equity Research)](https://www.indeed.com/viewjob?jk=5d699db48e639eef&tk=1ihbh6enik3fv84f&from=serp&vjs=3) | T. Rowe Price | Hybrid work in Baltimore, MD | Finance, Accounting, MS Excel, PowerPoint, Communication, Attention to detail, Analytical skills | 01-11 | <!-- JobID: 3DaYYq2ugA -->
+| [Finance Intern \| Summer 2025](https://www.indeed.com/viewjob?jk=90f5a9be6159b8be&tk=1ihbh6enik3fv84f&from=serp&vjs=3) | YHB | Winchester, VA 22603 | Microsoft Excel, Analytical skills, Organizational skills, Communication skills, Financial principles, Accounting practices | 01-11 | <!-- JobID: 3f21syQhmu -->
+| [Financial Analyst Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=fe1b6a90f7a72e12&tk=1ihbh6enik3fv84f&from=serp&vjs=3) | Options For All Inc | San Diego, CA 92110 | Analytical skills, Microsoft Excel, Financial analysis, Attention to detail, Communication skills, Problem-solving skills, Ability to manage multiple projects, Understanding of financial statements | 01-11 | <!-- JobID: Bm56slHhY8 -->
 | [2025 Emerging Talent Summer Experience - Campbell Timberland Finance Intern](https://www.indeed.com/viewjob?jk=a5b24ba333c82cf1&tk=1ihbj17tc2h2803h&from=serp&vjs=3) | JPMorganChase | Portland, OR 97201 | Financial modeling, Microsoft Excel, Analytical skills, Interpersonal communication, Teamwork, Complex problem solving | 01-11 | <!-- JobID: GdqYMn1lkE -->
 | [Summer 2025 Pricing Strategy Internship](https://www.indeed.com/viewjob?jk=35c00b4bc59f37c9&tk=1ihbarm6lgeed8a7&from=serp&vjs=3) | T-Mobile USA, Inc. | Bellevue, WA 98006 | Problem Solving, Analytics, Financial Analysis, Executive Level Presentations, Communication | 01-11 | <!-- JobID: l0dX1RRco6 -->
 | [Commercial Finance Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=b302c2f81ed3ee33&tk=1ihblcubok8i88gq&from=serp&vjs=3) | Zurn Elkay Water Solutions | Milwaukee, WI 53204 | Microsoft Office applications, Excel skills (pivot tables and macros), Business Insight, Problem-solving, Accountability, Trust and integrity | 01-11 | <!-- JobID: CS6qz9pl4Q -->
