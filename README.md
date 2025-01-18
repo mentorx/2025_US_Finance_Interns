@@ -8,10 +8,16 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-15_
+_Last updated: 01-17_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Intern - Global Finance Operations (Summer 2025)](https://www.indeed.com/viewjob?jk=75f7bde37c759680&tk=1ihqvejsijn398a8&from=serp&vjs=3) | Hasbro Inc. | Pawtucket, RI (Pine Crest area) | Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Interpersonal skills, Process documentation, Research and analysis, Finance and business curiosity | 01-17 | <!-- JobID: t79IZd16hH -->
+| [Capital Markets Graduate Internship, Summer 2025](https://www.indeed.com/viewjob?jk=bfa56186a2de8e65&tk=1ihqsekaul51681v&from=serp&vjs=3) | Ameriprise Financial | Minneapolis, MN | Python, Data Analysis, Analytical Skills, Communication Skills, Organizational Skills, Financial Modeling | 01-17 | <!-- JobID: Sgrgz4akXx -->
+| [Economic Damages & Valuation Internship - Summer 2025](https://www.indeed.com/viewjob?jk=44d74008607b624a&tk=1ihqu5fiigb35814&from=serp&vjs=3) | J.S. Held LLC | San Francisco, CA | Accounting, Finance, Microsoft Office, Communication, Teamwork, Strategic Thinking | 01-17 | <!-- JobID: zqpnsLdeyl -->
+| [2025 Fall- Transaction and Valuation Opinion Services Co-op](https://www.indeed.com/viewjob?jk=f3f13145860e16f8&tk=1ihlrlulugmt6801&from=serp&vjs=3) | Berkeley Research Group, LLC | New York, NY 10019 | Finance, Accounting, Valuation, MS Excel, MS Word, MS PowerPoint, Communication, Attention to Detail, Research, Financial Modeling | 01-15 | <!-- JobID: J5Ouwkgdmv -->
+| [Intern Loan Review Summer 2025](https://www.indeed.com/viewjob?jk=631477766dca9cab&tk=1ihltd3i7jn2o80r&from=serp&vjs=3) | Forvis Mazars | Indianapolis, IN | Credit risk assessment, Loan documentation evaluation, Communication skills, Team collaboration, Problem-solving, Time management, Microsoft Office Suite proficiency, Attention to detail | 01-15 | <!-- JobID: 7Z7hBNvLcj -->
+| [Corporate Tax Intern (Fall 2025, Full-time Hours)](https://www.indeed.com/viewjob?jk=59534d32aafb0c43&tk=1ihltd3i7jn2o80r&from=serp&vjs=3) | Transamerica | Hybrid work in Cedar Rapids, IA | Accounting, Finance, Business Analytics, Analytical Skills, Problem-Solving Skills, Communication Skills, Microsoft Office Suite, Organizational Skills | 01-15 | <!-- JobID: HEAGf9PqiY -->
 | [Internship, Accounting & Finance (Summer 2025)](https://www.indeed.com/viewjob?jk=28d0bc539aa2d5f5&tk=1ihlt0p6mia58800&from=serp&vjs=3) | Tesla | Fremont, CA 94538 | Excel, Microsoft PowerQuery/Power BI, SQL, Accounting principles, Financial statements, Financial modeling, Verbal communication, Written communication, Presentation skills | 01-15 | <!-- JobID: YEBGctexRC -->
 | [2025 Summer Intern - Asset Management](https://www.indeed.com/viewjob?jk=f6a68ae711fdda2f&tk=1ihlkja94gc2b8a2&from=serp&vjs=3) | Loop Capital | Miami, FL | Financial modeling, Trading support, Economic analysis, Client presentations, Risk procedures, Microsoft Office Suite, Bloomberg knowledge, Quantitative analysis, Attention to detail, Communication skills | 01-15 | <!-- JobID: JDydqIXydV -->
 | [Summer 2025 Deposits and Payments Intern](https://www.indeed.com/viewjob?jk=7109aec2c6903550&tk=1ihlkja94gc2b8a2&from=serp&vjs=3) | Live Oak Bank | Wilmington, NC 28403 | Financial analysis, Analytical skills, Quantitative skills, Excel, PowerPoint, Word, Statistical analysis, Data Querying languages (e.g. SQL) | 01-15 | <!-- JobID: oEaugkFFfp -->
