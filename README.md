@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-17_
+_Last updated: 01-19_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Summer 2025 - Research Intern, Beyond Jails Initiative](https://www.indeed.com/viewjob?jk=f16d1256d66bb2e9&tk=1ii0778hsi8qu808&from=serp&vjs=3) | Vera Institute of Justice | Brooklyn, NY 11232 | data analysis, quantitative research, statistical analysis, writing skills, Microsoft Office Suite, R/RStudio, data visualization, SQL, Python, Tableau | 01-19 | <!-- JobID: 3O40ijHzSi -->
+| [Services – Securities Services, Summer Analyst, New York - US, 2025](https://www.indeed.com/viewjob?jk=02a3689fb343a57c&tk=1ihvuqkngj7358a3&from=serp&vjs=3) | Citi | New York, NY | Financial analysis, Client management, Business development, Analytical approach to problem solving, Proficient in Microsoft products, Advanced Excel and Pivot Table experience, Strong attention to detail, Clear and articulate verbal and written communication skills, Team player attitude, Time-management skills | 01-19 | <!-- JobID: IVhV6IUXLa -->
 | [Intern - Global Finance Operations (Summer 2025)](https://www.indeed.com/viewjob?jk=75f7bde37c759680&tk=1ihqvejsijn398a8&from=serp&vjs=3) | Hasbro Inc. | Pawtucket, RI (Pine Crest area) | Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Interpersonal skills, Process documentation, Research and analysis, Finance and business curiosity | 01-17 | <!-- JobID: t79IZd16hH -->
 | [Capital Markets Graduate Internship, Summer 2025](https://www.indeed.com/viewjob?jk=bfa56186a2de8e65&tk=1ihqsekaul51681v&from=serp&vjs=3) | Ameriprise Financial | Minneapolis, MN | Python, Data Analysis, Analytical Skills, Communication Skills, Organizational Skills, Financial Modeling | 01-17 | <!-- JobID: Sgrgz4akXx -->
 | [Economic Damages & Valuation Internship - Summer 2025](https://www.indeed.com/viewjob?jk=44d74008607b624a&tk=1ihqu5fiigb35814&from=serp&vjs=3) | J.S. Held LLC | San Francisco, CA | Accounting, Finance, Microsoft Office, Communication, Teamwork, Strategic Thinking | 01-17 | <!-- JobID: zqpnsLdeyl -->
