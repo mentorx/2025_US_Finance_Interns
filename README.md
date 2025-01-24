@@ -8,10 +8,14 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-21_
+_Last updated: 01-23_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Takeda Finance Co-Op Program (July - December 2025)](https://www.indeed.com/viewjob?jk=29bd89f6df52bf86&tk=1ii542e4ah71t86s&from=serp&vjs=3) | Takeda Pharmaceutical | Hybrid work in Boston, MA | Accounting, Finance, Communication, Interpersonal Skills, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, Organization, Team Dynamics, Prioritization | 01-21 | <!-- JobID: Ad30BFOkYL -->
+| [Investment Services Intern, Summer 2025](https://www.indeed.com/viewjob?jk=2c8a35d7923b0832&tk=1ii56sivkl53i84q&from=serp&vjs=3) | Arrowstreet Capital | Boston, MA 02116 | Python, Organizational skills, Analytical skills, Problem-solving skills, Microsoft Excel, Data analysis, Interest in asset management | 01-21 | <!-- JobID: 5sfG2zg0IF -->
+| [Capital Co-Op - Summer 2025](https://www.indeed.com/viewjob?jk=fe7d36da29cafd0b&tk=1ii5av5migc0t86f&from=serp&vjs=3) | Al. Neyer | Cincinnati, OH 45202 | Financial analysis & modeling, Investor management, Loan administration, Database maintenance, Microsoft Office Suite, Effective communication, Detail-oriented, Time management, Team collaboration | 01-21 | <!-- JobID: bBVXjdtnoG -->
+| [2025 Summer Associate- Corporate Finance Transaction Advisory](https://www.indeed.com/viewjob?jk=400218b424fcaf29&tk=1ii55sqpjh71u8a7&from=serp&vjs=3) | Berkeley Research Group, LLC | Chicago, IL 60602 | Financial Statement Review, Quality of Earnings, Business and Transactional Performance, Data Analysis, MS Excel, Problem-Solving | 01-21 | <!-- JobID: TTw2JbwK21 -->
 | [RESEARCH ANALYST INTERN – SUMMER 2025](https://www.indeed.com/viewjob?jk=20a8758c6e4b7f95&tk=1ii5i10p9jcn3837&from=serp&vjs=3) | IMC Financial Markets | Chicago, IL | Analytical skills, Problem solving, Teamwork, Python programming, Microsoft Excel, Interest in Financial Markets | 01-21 | <!-- JobID: KENWbWnOiT -->
 | [2025 Tax Oriented Investment Internship - NAMR Emerging Talent Summer Program](https://www.indeed.com/viewjob?jk=887c2d5d215f575c&tk=1ii542642l53i8a3&from=serp&vjs=3) | JPMorganChase | Chicago, IL 60603 | Fluency in English, Excellent quantitative and analytical skills, Good verbal and written communication skills, Organizational/time management skills, Ability to handle multiple tasks, Strong computer skills, Microsoft Office skills (Excel, PowerPoint), Experience with real estate concepts, Basic understanding of LIHTC/Section 42, Interest in renewable energy | 01-21 | <!-- JobID: 3XwMoeNV2V -->
 | [Deloitte Corporate Finance - Investment Banking 2025 Summer Analyst](https://www.indeed.com/viewjob?jk=b7a1c5c53ec4eb4f&tk=1ii57oie723b5013&from=serp&vjs=3) | Deloitte | Charlotte, NC | Financial modeling, Valuation methodologies, Verbal communication, Written communication, Problem solving, Critical thinking, Collaboration, Microsoft Excel, Microsoft Word, Microsoft PowerPoint | 01-21 | <!-- JobID: HQdAD2r6Ph -->
