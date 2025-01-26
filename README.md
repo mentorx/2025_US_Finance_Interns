@@ -8,10 +8,15 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-23_
+_Last updated: 01-25_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Markets - Quantitative Analysis, Summer Analyst - New York City - US, 2025](https://www.indeed.com/viewjob?jk=fcae9139259b658e&tk=1iiff4na3gb26846&from=serp&vjs=3) | Citi | New York, NY | Quantitative Analysis, Mathematical skills, Programming skills, Statistical knowledge, Data science techniques, Research and analysis, Problem-solving, Communication skills, Detail-oriented, Ability to juggle multiple tasks | 01-25 | <!-- JobID: z1Tq68j8Gw -->
+| [Fall 2025 Finance Co-Op](https://www.indeed.com/viewjob?jk=a15b48dad9a1dd84&tk=1iifigrkeh75m89r&from=serp&vjs=3) | Johnson & Johnson | New Brunswick, NJ | Financial Planning & Analysis, Data Analysis, Project Management, Problem Solving, Communication Skills, Technical Skills, MS Excel | 01-25 | <!-- JobID: qEmFJ94yFQ -->
+| [Equities Intern - Undergraduate (Summer 2025)](https://www.indeed.com/viewjob?jk=4fbac40b6748e6d0&tk=1iifncpuugqpc8a0&from=serp&vjs=3) | Principal Financial Group | Des Moines, IA 50392 | equity research, fundamental analysis, stock valuation modeling, portfolio construction, performance monitoring, trading, advanced PC skills, Excel proficiency, organizational skills, communication skills | 01-25 | <!-- JobID: OP4cAuZtln -->
+| [2025 Investment Operations Analyst Internship - Remote](https://www.indeed.com/viewjob?jk=bd764d05be0e8fb5&tk=1iifncpuugqpc8a0&from=serp&vjs=3) | Symetra Financial | Remote | Excel, Analytical skills, Problem-solving skills, Communication skills, Project management skills, Motivation and initiative | 01-25 | <!-- JobID: XBVberpcDj -->
+| [Summer 2025 - Finance Co-op](https://www.indeed.com/viewjob?jk=7bd4e05cebcba142&tk=1iifm4d10i97184g&from=serp&vjs=3) | Precision Castparts Corp. | Wickliffe, OH | Accounting principles, Finance principles, Microsoft Excel, Microsoft Access, Writing skills, Interpersonal skills | 01-25 | <!-- JobID: HC6wPAy5iN -->
 | [Takeda Finance Co-Op Program (July - December 2025)](https://www.indeed.com/viewjob?jk=29bd89f6df52bf86&tk=1ii542e4ah71t86s&from=serp&vjs=3) | Takeda Pharmaceutical | Hybrid work in Boston, MA | Accounting, Finance, Communication, Interpersonal Skills, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, Organization, Team Dynamics, Prioritization | 01-21 | <!-- JobID: Ad30BFOkYL -->
 | [Investment Services Intern, Summer 2025](https://www.indeed.com/viewjob?jk=2c8a35d7923b0832&tk=1ii56sivkl53i84q&from=serp&vjs=3) | Arrowstreet Capital | Boston, MA 02116 | Python, Organizational skills, Analytical skills, Problem-solving skills, Microsoft Excel, Data analysis, Interest in asset management | 01-21 | <!-- JobID: 5sfG2zg0IF -->
 | [Capital Co-Op - Summer 2025](https://www.indeed.com/viewjob?jk=fe7d36da29cafd0b&tk=1ii5av5migc0t86f&from=serp&vjs=3) | Al. Neyer | Cincinnati, OH 45202 | Financial analysis & modeling, Investor management, Loan administration, Database maintenance, Microsoft Office Suite, Effective communication, Detail-oriented, Time management, Team collaboration | 01-21 | <!-- JobID: bBVXjdtnoG -->
