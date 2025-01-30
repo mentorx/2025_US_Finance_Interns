@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 01-27_
+_Last updated: 01-29_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 Public Finance Summer Analyst- Denver](https://www.indeed.com/viewjob?jk=b13ead4139ef1ee5&tk=1iipqs2hagbnq86e&from=serp&vjs=3) | Stifel | Denver, CO 80202 | quantitative/analytical skills, financial modeling, attention to detail, verbal communication, written communication, teamwork, project management, research skills | 01-29 | <!-- JobID: EnRHEufECu -->
+| [2025 Equipment Finance Group - Analyst Program](https://www.indeed.com/viewjob?jk=d87ad2b0d3ac8823&tk=1iipqs2hagbnq86e&from=serp&vjs=3) | Truist Bank | Atlanta, GA 30309 | Analytical ability, Attention to detail, Leadership skills, Interpersonal skills, Written communication, Oral communication, MS Office (Excel, PowerPoint, Word), Teamwork, Willingness to learn, Financial modeling | 01-29 | <!-- JobID: KMRu47mHeM -->
+| [2025 Public Finance Bridge Program](https://www.indeed.com/viewjob?jk=121f0e81e5865c7b&tk=1iikns9f9mvbn84k&from=serp&vjs=3) | Stifel | St. Louis, MO | Microsoft Office, Analytic skills, Problem solving, Team-oriented, Finance knowledge, Public policy knowledge, Excel, PowerPoint | 01-27 | <!-- JobID: ZaZshefgog -->
 | [2025 Guggenheim Securities Investment Banking Summer Associate – Atlanta](https://www.indeed.com/viewjob?jk=ea3f1178c386f93d&tk=1iiko0oirnact801&from=serp&vjs=3) | Guggenheim Partners | Atlanta, GA | financial analysis, data analysis, communication skills, M&A process management, presentation skills, negotiations, business acumen, quantitative skills, problem solving, Microsoft Excel, Microsoft PowerPoint | 01-27 | <!-- JobID: Ix5HnvN5Z8 -->
 | [2025 \| Americas \| Dallas Metro Area \| Controllers \| Summer Analyst](https://www.indeed.com/viewjob?jk=55f18fc218713333&tk=1iikhkk8il6ie81d&from=serp&vjs=3) | Goldman Sachs | Dallas, TX 75201 | financial management, regulatory compliance, data analysis, communication, teamwork | 01-27 | <!-- JobID: 0d1JjQZURm -->
 | [2025 KKR Scholars](https://www.indeed.com/viewjob?jk=8255f5226b407077&tk=1iikk7vcekgrm86u&from=serp&vjs=3) | Kohlberg Kravis Roberts & Co. | United States | analytical skills, resume writing, interview skills, mentorship, career insights | 01-27 | <!-- JobID: TghD3C3nEm -->
