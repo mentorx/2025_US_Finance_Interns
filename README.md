@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 02-11_
+_Last updated: 02-13_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [University Massachusetts Boston- STEM and Healthcare Career Expo 2025](https://www.indeed.com/viewjob?jk=6bbd2a97d22edd30&tk=1ijr7s8k7gmsm86m&from=serp&vjs=3) | State Street | Hybrid work in Boston, MA 02111 | analytical skills, communication skills, interpersonal skills, time management, detail-oriented, deadline driven, research industry regulations | 02-13 | <!-- JobID: Uaxs9eohEv -->
 | [2025 KBCM Investment Banking Summer Analyst - San Francisco, CA](https://www.indeed.com/viewjob?jk=ec4d1f4fd3be7d99&tk=1ijm4e2urit7c88k&from=serp&vjs=3) | KeyBank National Association | San Francisco, CA 94111 | financial modeling, valuation analysis, quantitative abilities, critical thinking, leadership, teamwork, communication skills, presentation skills | 02-09 | <!-- JobID: 4ONi24aztv -->
 | [TD Securities 2025 Summer Analyst Program - Corporate Banking (New York)](https://www.indeed.com/viewjob?jk=c1f18546f5ea67de&tk=1ijm80krmijva801&from=serp&vjs=3) | TD Bank | New York, NY | financial analysis, accounting, valuation skills, MS Excel, interpersonal skills, leadership, teamwork, communication skills, detail-oriented, self-motivated | 02-09 | <!-- JobID: eI9V8OiF8I -->
 | [2025 Summer Associate - PJT Camberview (Governance)](https://www.indeed.com/viewjob?jk=e041ef73365bda8b&tk=1ijm6c5t8gp9v89g&from=serp&vjs=3) | PJT Partners | New York, NY 10017 | Investor relations, Governance analysis, ESG knowledge, Strategic advisory, Research and analysis, Presentation skills, Interpersonal skills, Project management, Microsoft PowerPoint, Microsoft Word, Microsoft Excel | 02-09 | <!-- JobID: jB4WN3YUAf -->
