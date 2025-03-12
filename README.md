@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 03-09_
+_Last updated: 03-11_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Transaction Services Intern (New York) - Summer 2025](https://www.indeed.com/viewjob?jk=81b2253423c45488&tk=1ilu4co21gqnf88c&from=serp&vjs=3) | Moss Adams | New York, NY | Financial Analysis, Due Diligence, Collaboration, Critical Thinking, Emotional Intelligence, Communication Skills, Microsoft Office Suite, Project Management | 03-09 | <!-- JobID: at41wHJI4f -->
+| [Intern, Financial Planning & Analysis (Summer 2025)](https://www.indeed.com/viewjob?jk=a85f4a8808212420&tk=1ilu0e1fpjcdo80f&from=serp&vjs=3) | The Chamberlain Group LLC | Oak Brook, IL 60523 | Analytical skills, Microsoft Excel, Financial modeling, Team collaboration, Attention to detail | 03-09 | <!-- JobID: DED5uusQSZ -->
+| [Investment Services Internship - Summer 2025, Jonesboro, AR](https://www.indeed.com/viewjob?jk=3d153b099c8c1679&tk=1ilu59vlugop084q&from=serp&vjs=3) | Simmons Bank | Jonesboro, AR 72401 | written and verbal communication, time management, project management, attention to detail, Microsoft Office Suite, team-oriented mindset, positive attitude | 03-09 | <!-- JobID: HZebsSSQJL -->
 | [Stage Gestion Small Caps Europe - Juillet 2025](https://www.indeed.com/viewjob?jk=d55f3864dd81e7ef&tk=1ilpmc4qai01983b&from=serp&vjs=3) | ODDO BHF | United States | Excel, CRM, Fluent in English, Fluent in French, Interpersonal skills, Communication skills, Market research, Project management, Attention to detail, Dynamic and proactive | 03-07 | <!-- JobID: MvKdSbgBUb -->
 | [2025 Virtual Summer Intern Program – Treasury Intern](https://www.indeed.com/viewjob?jk=81e35bce54792d91&tk=1ilp0rlkbiud6873&from=serp&vjs=3) | Mr. Cooper | Dallas, TX | financial and accounting principles, cash management, strong written and verbal communication skills, business, finance, accounting or related field | 03-07 | <!-- JobID: k5D1Kp2JNZ -->
 | [2025 Tax Oriented Investment Internship - NAMR Emerging Talent Summer Experience Program](https://www.indeed.com/viewjob?jk=0e1d25c18f3a3268&tk=1ilp0rlkbiud6873&from=serp&vjs=3) | JPMorganChase | Chicago, IL | Fluency in English, Excellent quantitative and analytical skills, Good verbal and written communication skills, Organizational/time management skills, Strong computer skills, Microsoft Office skills, especially Excel and PowerPoint | 03-07 | <!-- JobID: ycKkFvI9bz -->
