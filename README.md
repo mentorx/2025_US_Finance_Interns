@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 03-17_
+_Last updated: 03-19_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Finance Intern, TV Distribution & Networks – Summer 2025](https://www.indeed.com/viewjob?jk=344f75cbaf4329a2&tk=1imno8ek8ge4k886&from=serp&vjs=3) | Sony Pictures Entertainment, Inc. | Miami, FL 33131 | Microsoft Excel, Communication Skills, Fluency in Spanish, Fluency in English, Finance/Accounting Knowledge, SAP Knowledge | 03-19 | <!-- JobID: xgRH0O4Vop -->
+| [Financial Analyst Internship (Summer 2025)- Customer Service](https://www.indeed.com/viewjob?jk=fc800c2f4dcde013&tk=1imijfccvi9tf85b&from=serp&vjs=3) | Siemens | Sacramento, CA 95828 | Data Analysis, Financial Reporting, Performance Tracking, Data Visualization, Project Management Support, Resourcefulness, Problem Solving, Collaboration, Analytical Skills, Presentation Skills, Critical Thinking | 03-17 | <!-- JobID: 5Yg7DpZwf6 -->
 | [2025 Investment Banking Summer Analyst, LATAM, New York City](https://www.indeed.com/viewjob?jk=c6ff7a4077fae707&tk=1imij06iego62866&from=serp&vjs=3) | Scotiabank | New York, NY | Financial analysis, Quantitative skills, Written communication, Verbal communication, Attention to detail, Project management, Teamwork, Spanish or Portuguese proficiency | 03-17 | <!-- JobID: 2IQMfN69Lq -->
 | [Advisory Associate - Turnaround & Restructuring - Summer 2025 (New York)](https://www.indeed.com/viewjob?jk=5f7c22ff7b6898bd&tk=1imioberv2cef08f&from=serp&vjs=3) | BDO | New York, NY | Analytical thinking, Report writing, Financial analysis, Excel, PowerPoint, Communication, Problem-solving | 03-17 | <!-- JobID: 5XHm1Sw3nP -->
 | [Corporate Strategy & Business Development Intern - Summer 2025](https://www.indeed.com/viewjob?jk=600b7536abc6333b&tk=1imdkm7cdjism81c&from=serp&vjs=3) | CME Group | Chicago, IL | analytical skills, financial modeling, Microsoft Word, Microsoft Excel, PowerPoint, Google Workspace, written communication, verbal communication, team collaboration, market research, data analysis | 03-15 | <!-- JobID: LVEtDgldHR -->
