@@ -8,10 +8,15 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 03-23_
+_Last updated: 03-25_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 Spring Campus Recruitment Financial Management Associate](https://www.indeed.com/viewjob?jk=782f500b1de56884&tk=1in26ol2ni9u9800&from=serp&vjs=3) | Bank of China Limited, New York Branch | New York, NY 10018 | Financial Analysis, Visual Basic for Applications (VBA), SQL, Data Visualization, Communication Skills, Problem Solving | 03-23 | <!-- JobID: 7hMsjdh73a -->
+| [2025 Spring Campus Recruitment Strategy Research Department Macro Research Associate](https://www.indeed.com/viewjob?jk=fbe540c3bb6e0fd7&tk=1in2ir1bnl525810&from=serp&vjs=3) | Bank of China Limited, New York Branch | New York, NY 10018 | quantitative economic data analysis, economic analytical framework, economic and interest rate forecasting, data analysis, intermarket analysis, ad hoc research support, correlation analysis, presentation skills | 03-23 | <!-- JobID: yS231Qdyrn -->
+| [2025 Spring Campus Recruitment Credit Risk Management Associate](https://www.indeed.com/viewjob?jk=1bcc4cfa27451af6&tk=1in2deutlit798ap&from=serp&vjs=3) | Bank of China | New York, NY 10018 | Credit Risk Management, Loan Documentation, Policy Adherence, Collateral Management, Data Analytics, Financial Analysis, Accounting Knowledge, Legal Knowledge | 03-23 | <!-- JobID: 1N43HMWvNC -->
+| [Intern - Global Finance Operations (Summer 2025)](https://www.indeed.com/viewjob?jk=8023ed72a8c321d3&tk=1in2264e6h3mb82f&from=serp&vjs=3) | Hasbro Inc. | Pawtucket, RI (Pine Crest area) | Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Interpersonal skills, Process documentation, Research and analysis, Business curiosity | 03-23 | <!-- JobID: B70C17kT7R -->
+| [2025 Spring Campus Recruitment Queens Branch Associate](https://www.indeed.com/viewjob?jk=679e8be626f3fa2a&tk=1in2h4mcjjdqd880&from=serp&vjs=3) | Bank of China | Flushing, NY 11355 | Financial Analysis, Credit Analysis, Regulatory Compliance, Customer Service, Microsoft Office Suite, Bilingual in Mandarin and English | 03-23 | <!-- JobID: Ce26UOhUAF -->
 | [KIP Summer 2025 - Financial Accountability Research Intern - California Policy Center](https://www.indeed.com/viewjob?jk=e4747ce8c8c52751&tk=1in279g61gbj5810&from=serp&vjs=3) | Stand Together | Remote | Research, Financial Analysis, Data Analysis, Communication, Teamwork | 03-23 | <!-- JobID: hPBzDjulYi -->
 | [Walt Disney Imagineering Finance Intern, Summer 2025](https://www.indeed.com/viewjob?jk=393820d91158c7dd&tk=1in2ecgv8j3l8814&from=serp&vjs=3) | Disney Experiences | Glendale, CA | Financial modeling, Communication skills, Organizational skills, Analytical skills, Microsoft Excel, SAP, Business Intelligence Software | 03-23 | <!-- JobID: HedeREQlSZ -->
 | [Analyst, Diligence (Fall 2025)](https://www.indeed.com/viewjob?jk=c97a4429934ffc15&tk=1imtf26nnj1fu87c&from=serp&vjs=3) | K1 | Manhattan Beach, CA 90266 | analytical skills, communication skills, multi-tasking, teamwork, attention to detail, problem solving, strategic thinking, implementation skills | 03-21 | <!-- JobID: VfLq5egg7b -->
