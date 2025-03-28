@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 03-25_
+_Last updated: 03-27_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Summer 2025 Investor Relations Internship](https://www.indeed.com/viewjob?jk=02441f203babc721&tk=1incmfqjgjcfs80v&from=serp&vjs=3) | T-Mobile USA, Inc. | Bellevue, WA 98006 | Microsoft Office Suite, Data analysis, Organizational skills, Prioritization skills, Interpersonal skills, Presentation skills, Attention to detail, Ability to work in a fast-paced environment | 03-27 | <!-- JobID: pElmmOZ2co -->
+| [2025 Summer Performance Management Intern](https://www.indeed.com/viewjob?jk=67453b5fe8873b2b&tk=1in7j9itkjces83g&from=serp&vjs=3) | EVERSOURCE | Westwood, MA | financial analysis, reporting, communication, MS Office applications, teamwork, customer focus, multi-tasking | 03-25 | <!-- JobID: ze5T6IBFE7 -->
+| [2025 Summer Intern- Investment Sales, Seattle](https://www.indeed.com/viewjob?jk=988951fc4d4568db&tk=1in7mno8sgghb84c&from=serp&vjs=3) | Berkadia | Seattle, WA | Microsoft Office, cash flow analysis, deal narratives, research and writing, database management, communication | 03-25 | <!-- JobID: JmO0jlQvDS -->
 | [2025 Spring Campus Recruitment Financial Management Associate](https://www.indeed.com/viewjob?jk=782f500b1de56884&tk=1in26ol2ni9u9800&from=serp&vjs=3) | Bank of China Limited, New York Branch | New York, NY 10018 | Financial Analysis, Visual Basic for Applications (VBA), SQL, Data Visualization, Communication Skills, Problem Solving | 03-23 | <!-- JobID: 7hMsjdh73a -->
 | [2025 Spring Campus Recruitment Strategy Research Department Macro Research Associate](https://www.indeed.com/viewjob?jk=fbe540c3bb6e0fd7&tk=1in2ir1bnl525810&from=serp&vjs=3) | Bank of China Limited, New York Branch | New York, NY 10018 | quantitative economic data analysis, economic analytical framework, economic and interest rate forecasting, data analysis, intermarket analysis, ad hoc research support, correlation analysis, presentation skills | 03-23 | <!-- JobID: yS231Qdyrn -->
 | [2025 Spring Campus Recruitment Credit Risk Management Associate](https://www.indeed.com/viewjob?jk=1bcc4cfa27451af6&tk=1in2deutlit798ap&from=serp&vjs=3) | Bank of China | New York, NY 10018 | Credit Risk Management, Loan Documentation, Policy Adherence, Collateral Management, Data Analytics, Financial Analysis, Accounting Knowledge, Legal Knowledge | 03-23 | <!-- JobID: 1N43HMWvNC -->
