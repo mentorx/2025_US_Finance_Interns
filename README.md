@@ -8,10 +8,16 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 03-27_
+_Last updated: 03-29_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Summer 2025 Investment Analyst Intern](https://www.indeed.com/viewjob?jk=0048f3bd08ae80bf&tk=1inhn4m3ej1e9889&from=serp&vjs=3) | The Haskell Company | Jacksonville, FL 32202 | Good communication and interpersonal skills, Attention to detail, Graphic design skills, Proficiency in Revit, Navisworks, Synchro, Lumion, 3D Studio Max, Photoshop, AutoCAD, Microsoft Office | 03-29 | <!-- JobID: AwuPazDhK3 -->
+| [Financial Planning & Analysis Intern, Worldwide Distribution – Summer 2025](https://www.indeed.com/viewjob?jk=045b0595a6d7bc3c&tk=1incqr7tfj54v824&from=serp&vjs=3) | Sony Pictures Entertainment, Inc. | Culver City, CA | analytical skills, Excel, Office 365 applications, time management, decision-making, interpersonal skills, self-motivated, attention to detail, independent worker | 03-27 | <!-- JobID: MDOZlFDard -->
+| [Finance Intern - Summer 2025 - Oakbrook](https://www.indeed.com/viewjob?jk=6ec4a4102ea35b29&tk=1incbgpukk3ef889&from=serp&vjs=3) | McCain Foods Limited | Oakbrook Terrace, IL 60181 | analytical skills, communication skills, problem-solving skills, interpersonal skills, Microsoft Office Suite, organizational skills, teamwork | 03-27 | <!-- JobID: wFSDtXfEvT -->
+| [Summer Student 2025 - Finance FP&A](https://www.indeed.com/viewjob?jk=fd65e70b2ea882b5&tk=1incb6i5ej1qa801&from=serp&vjs=3) | EPCOR | Glendale, AZ 85306 | Accounting principles, Financial statements, GAAP, Business intelligence software, Spreadsheet usage, Microsoft Office Suite, Professionalism, Collaboration, Effective communication, Eager to learn | 03-27 | <!-- JobID: KxhCaOgC2k -->
+| [2025 Virtual Summer Intern Program – Capital Markets Intern](https://www.indeed.com/viewjob?jk=095315262e52a5a3&tk=1incm7u0ci02587a&from=serp&vjs=3) | Mr. Cooper | Dallas, TX | SQL, Analytical skills, Problem-solving skills, Data visualization tools, Process mapping | 03-27 | <!-- JobID: LbzDQKn2l1 -->
+| [2025 Finance Summer Intern - (Dallas, TX)](https://www.indeed.com/viewjob?jk=0a29c5f233d1710b&tk=1inckjoiq24er008&from=serp&vjs=3) | CBRE | Los Angeles, CA | Financial knowledge, Analytical skills, MS Office (Excel, Word, Outlook, PowerPoint, Teams), Presentation skills, Problem-solving | 03-27 | <!-- JobID: nsapUkJteX -->
 | [Summer 2025 Investor Relations Internship](https://www.indeed.com/viewjob?jk=02441f203babc721&tk=1incmfqjgjcfs80v&from=serp&vjs=3) | T-Mobile USA, Inc. | Bellevue, WA 98006 | Microsoft Office Suite, Data analysis, Organizational skills, Prioritization skills, Interpersonal skills, Presentation skills, Attention to detail, Ability to work in a fast-paced environment | 03-27 | <!-- JobID: pElmmOZ2co -->
 | [2025 Summer Performance Management Intern](https://www.indeed.com/viewjob?jk=67453b5fe8873b2b&tk=1in7j9itkjces83g&from=serp&vjs=3) | EVERSOURCE | Westwood, MA | financial analysis, reporting, communication, MS Office applications, teamwork, customer focus, multi-tasking | 03-25 | <!-- JobID: ze5T6IBFE7 -->
 | [2025 Summer Intern- Investment Sales, Seattle](https://www.indeed.com/viewjob?jk=988951fc4d4568db&tk=1in7mno8sgghb84c&from=serp&vjs=3) | Berkadia | Seattle, WA | Microsoft Office, cash flow analysis, deal narratives, research and writing, database management, communication | 03-25 | <!-- JobID: JmO0jlQvDS -->
