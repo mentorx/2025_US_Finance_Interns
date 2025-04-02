@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 03-31_
+_Last updated: 04-01_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [FINANCE & ACCOUNTING INTERN   SUMMER 2025](https://www.indeed.com/viewjob?jk=059491f51d5afd73&tk=1inmtdlv424er001&from=serp&vjs=3) | Sportsman's Warehouse | West Jordan, UT 84088 | Financial Analysis, Budgeting, Reporting, Analytical Skills, Problem-Solving, Attention to Detail, Microsoft Excel, Communication Skills | 03-31 | <!-- JobID: CAwHiqh9G2 -->
 | [2025 Fixed Income – Credit Research Pre-MBA Summer Internship](https://www.indeed.com/viewjob?jk=6891d264308e94a6&tk=1inmstkdnjn3k89p&from=serp&vjs=3) | T. Rowe Price | Hybrid work in Baltimore, MD | finance, accounting, communication, MS Excel, PowerPoint, intellectual curiosity, analytical skills | 03-31 | <!-- JobID: ibPFawkehd -->
 | [2025 U.S Summer Internship Program: Finance Intern](https://www.indeed.com/viewjob?jk=38b0282cd833473e&tk=1inhjchc1297l08b&from=serp&vjs=3) | Takeda Pharmaceutical | Cambridge, MA | Accounting, Finance, Communication, Interpersonal Skills, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, Organization, Team Dynamics, Task Prioritization | 03-29 | <!-- JobID: yBOEHpXH5z -->
 | [Catastrophe Advisory Co-op - Multiple Locations - College Program 2025](https://www.indeed.com/viewjob?jk=f28e71fd00ee611e&tk=1inhsmn0sj70q80n&from=serp&vjs=3) | Mercer | Hybrid work in Philadelphia, PA 19103 | data management, communication skills, analytical skills, problem-solving skills, teamwork, Microsoft Office, basic coding, catastrophe modeling, research skills | 03-29 | <!-- JobID: 2W8SPPlEa1 -->
