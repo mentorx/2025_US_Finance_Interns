@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 04-03_
+_Last updated: 04-05_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Corporate Communications - 2025 Summer Intern](https://www.indeed.com/viewjob?jk=b8b0e59b5a9da5eb&tk=1inuqb04vi01i88d&from=serp&vjs=3) | CIBC | Chicago, IL 60603 | interpersonal skills, communication skills, analytical skills, problem-solving skills, organizational skills, multitasking, digital savviness, critical thinking, collaboration, adaptability | 04-03 | <!-- JobID: zqdiYzrfD4 -->
+| [2025 Summer Controlling Co-Op (CTG)](https://www.indeed.com/viewjob?jk=54836f3bc7d3bf58&tk=1inuticj8ia4g86s&from=serp&vjs=3) | Bosch Group | Charleston, SC 29418 | Microsoft Office (Excel), Finance and Accounting knowledge, SAP experience, Data handling tools (PowerBI, Knime, PowerQuery), Detail orientation, Communication skills, Flexibility and openness to challenges | 04-03 | <!-- JobID: c8m4cDEV80 -->
+| [Corporate Financial Planning and Analysis Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=a24ffb725de32a07&tk=1inucaitv2cev03g&from=serp&vjs=3) | Arconic | Pittsburgh, PA | financial analysis, accounting, cash management, data analysis, Excel, PowerPoint, teamwork, communication, strategic thinking | 04-03 | <!-- JobID: r8dkXYXTtg -->
 | [2025 Summer Analyst: M&A and Structured Finance (Internship)](https://www.indeed.com/viewjob?jk=ed14cba24de4a4de&tk=1inuid0togir489d&from=serp&vjs=3) | LYDIAN ENERGY LLC | Washington, DC 20002 | Financial modeling, Data analysis, Microsoft Office proficiency, Verbal communication, Written communication, Organizational skills, Problem-solving, Attention to detail, Ability to multitask, Independence | 04-03 | <!-- JobID: UE5ghohiEP -->
 | [Financial Analyst Internship - Summer 2025](https://www.indeed.com/viewjob?jk=23d0afab245355af&tk=1inus6tt3jdnh806&from=serp&vjs=3) | MADHOUSE DEVELOPMENT SERVICES | Austin, TX 78759 | Microsoft Office (Excel), Accounting principles (GAAP), Communication skills, Analytical skills, Problem-solving skills, Organizational skills, Collaboration, Presentation skills | 04-03 | <!-- JobID: BArzHGqsoG -->
 | [FP&A Intern - Summer 2025 (Hybrid)](https://www.indeed.com/viewjob?jk=b5875c58743731e4&tk=1inp7ilb7j56s801&from=serp&vjs=3) | IQVIA | Wayne, PA | Finance, Accounting, Microsoft Office, Analytical skills, Detail-oriented, Collaboration, Self-direction | 04-01 | <!-- JobID: USyzjo96ye -->
