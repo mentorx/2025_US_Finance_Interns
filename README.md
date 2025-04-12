@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 04-05_
+_Last updated: 04-11_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Intern, Strategic Risk - Summer 2025](https://www.indeed.com/viewjob?jk=21a83bf5ceb598ec&tk=1ioh8vn8u2dhq01q&from=serp&vjs=3) | BMW | Woodcliff Lake, NJ | Data Analysis, Statistical Tools, Programming (Python, SQL), Financial Modeling, Communication Skills, Attention to Detail, Microsoft Office Suite, Data Visualization Tools | 04-11 | <!-- JobID: nrdg1dlRCC -->
+| [Financial Analyst (FP&A) Intern - Summer 2025 (PacSci)](https://www.indeed.com/viewjob?jk=870b58a4ac322ee0&tk=1iohejjsjivb588l&from=serp&vjs=3) | PacSci EMC | Arizona | Financial analysis, Budgeting, Forecasting, Reporting, Microsoft Excel, Communication skills, Organizational skills, Analytical skills, Team collaboration, Proactive attitude | 04-10 | <!-- JobID: uQun9oIHCo -->
 | [Corporate Communications - 2025 Summer Intern](https://www.indeed.com/viewjob?jk=b8b0e59b5a9da5eb&tk=1inuqb04vi01i88d&from=serp&vjs=3) | CIBC | Chicago, IL 60603 | interpersonal skills, communication skills, analytical skills, problem-solving skills, organizational skills, multitasking, digital savviness, critical thinking, collaboration, adaptability | 04-03 | <!-- JobID: zqdiYzrfD4 -->
 | [2025 Summer Controlling Co-Op (CTG)](https://www.indeed.com/viewjob?jk=54836f3bc7d3bf58&tk=1inuticj8ia4g86s&from=serp&vjs=3) | Bosch Group | Charleston, SC 29418 | Microsoft Office (Excel), Finance and Accounting knowledge, SAP experience, Data handling tools (PowerBI, Knime, PowerQuery), Detail orientation, Communication skills, Flexibility and openness to challenges | 04-03 | <!-- JobID: c8m4cDEV80 -->
 | [Corporate Financial Planning and Analysis Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=a24ffb725de32a07&tk=1inucaitv2cev03g&from=serp&vjs=3) | Arconic | Pittsburgh, PA | financial analysis, accounting, cash management, data analysis, Excel, PowerPoint, teamwork, communication, strategic thinking | 04-03 | <!-- JobID: r8dkXYXTtg -->
