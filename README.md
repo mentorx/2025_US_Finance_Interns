@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 05-03_
+_Last updated: 05-07_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Summer 2025 Finance & Accounting Internship](https://www.indeed.com/viewjob?jk=648f294a60c041f8&tk=1iqhbjtn8j3lg8au&from=serp&vjs=3) | PDQ | South Salt Lake, UT 84115 | Accounting, Finance, Budget/actual variance preparation, Financial data analysis, Market research, Data cleanup, Microsoft Excel, Interpersonal skills, Autonomy, Collaboration, Math aptitude | 05-05 | <!-- JobID: n6i79U4SJb -->
 | [Accounting Intern - Summer 2025](https://www.indeed.com/viewjob?jk=0a928974f2c4c44e&tk=1iqbu0pgpiq7a86q&from=serp&vjs=3) | Anchor Health Properties | Charlottesville, VA 22902 | Accounting, Budgeting, Leasing, Financial statements preparation, Monthly reports preparation, Property performance analytics, Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Organizational skills, Attention to detail, Customer service skills, Interpersonal skills, Research, Communication skills, Problem-solving, Time management | 05-03 | <!-- JobID: 77xGsq0fPq -->
 | [Financial Planning & Analysis Intern, Media Networks – Summer 2025](https://www.indeed.com/viewjob?jk=79b0203d7a0a1531&tk=1iq9j4nq42ceu030&from=serp&vjs=3) | Sony Pictures Entertainment, Inc. | Miami, FL 33131 | Excel, PowerPoint, Financial reporting, Financial analysis, Budgeting and forecasting, Variance analysis, Data consolidation, Analytical skills, Organizational skills, Bilingual (English and Spanish or Portuguese) | 05-02 | <!-- JobID: 86Plvp86o4 -->
 | [Summer 2025 Internship - San Diego, CA - Market Banking](https://www.indeed.com/viewjob?jk=5bef92bd4060bc1c&tk=1iq96dv38k3d98dg&from=serp&vjs=3) | Western Alliance Bank | San Diego, CA | analytical skills, conceptual skills, communication skills, organizational skills, self-motivation, financial statement analysis, covenant testing, spreading financials, credit analysis, interest in commercial banking | 05-02 | <!-- JobID: CY9OwGCq71 -->
