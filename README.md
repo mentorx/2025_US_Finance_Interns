@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 05-11_
+_Last updated: 05-13_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Summer 2025 CFO Advisory Intern (Dallas)](https://www.indeed.com/viewjob?jk=693eca304218e793&tk=1ir10qjf1go4n862&from=serp&vjs=3) | Armanino | Dallas, TX | accounting, finance, valuation techniques, Excel analysis, communication, client relationship building, report writing, collaboration | 05-11 | <!-- JobID: ReELY4RfiC -->
 | [2025 Summer Financial Analyst Intern](https://www.indeed.com/viewjob?jk=52b7d88f5f842d8c&tk=1iqrr679pj2p486u&from=serp&vjs=3) | EVERSOURCE | Westwood, MA | financial analysis, financial model management, understanding of financial statements, financial concepts, communication (oral and written), detail orientation, teamwork, customer focus, computerized business systems, MS Office applications, Power Plan, Planning Analytics (TM1), Power Business Intelligence | 05-09 | <!-- JobID: kx2jVlFB7O -->
 | [Finance IS Intern- Fall 2025](https://www.indeed.com/viewjob?jk=79e875ed860b8b91&tk=1iqru8k0ij0po84t&from=serp&vjs=3) | ABB | Mebane, NC | Finance and Accounting, Budgeting, Cost center accounting, Variance analysis, Data analysis, ERP systems (SAP ECC or SAP CFIN), AI/ML model training, Data cleaning, Automation of financial reports, Presentation and reporting, Critical thinking, Task organization and prioritization, Collaboration and communication | 05-09 | <!-- JobID: b4Jat5ChkM -->
 | [Summer 2025 Planning Co-op](https://www.indeed.com/viewjob?jk=6604ce00b99f14c1&tk=1iqr4uis4ivbs813&from=serp&vjs=3) | Oglethorpe Power Corporation | Tucker, GA 30084 | MS Office Suite, Excel, Word, PowerPoint, MS Outlook, Load Forecasting, Budget preparation, Budget variance analysis, Utility cost of service analysis, Rate making, Financial reporting, Data integration, Communication | 05-09 | <!-- JobID: A2ICydFgke -->
