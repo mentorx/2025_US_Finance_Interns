@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 05-13_
+_Last updated: 05-15_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Summer 2025 Research Intern, Corporate Valuation Advisory Services, New York](https://www.indeed.com/viewjob?jk=5ad0b59de352c88d&tk=1iraq7709i0hm871&from=serp&vjs=3) | Houlihan Lokey | New York, NY | Finance, Accounting, Economics, Analytical abilities, Financial skills, Excel, Verbal communication, Written communication, Cooperative teamwork, Research, Data collection, Data entry, Note taking, Basic calculations | 05-15 | <!-- JobID: R6TDA28bMb -->
+| [2025 Fall Digital Transformation Intern](https://www.indeed.com/viewjob?jk=3ab1f9a1f85e4c8c&tk=1ir5urqe1297t062&from=serp&vjs=3) | Federal Home Loan Bank of Dallas | Irving, TX | data analysis, SQL query language, VBA or other object-oriented programming language, SSRS report builder, Excel spreadsheets and data manipulation, problem solving, attention to detail, collaboration, communication, technology use to solve problems, working with large and complex data sets, organizational skills, initiative, virtual environment adaptability | 05-13 | <!-- JobID: ZaDc2wCIul -->
 | [Summer 2025 CFO Advisory Intern (Dallas)](https://www.indeed.com/viewjob?jk=693eca304218e793&tk=1ir10qjf1go4n862&from=serp&vjs=3) | Armanino | Dallas, TX | accounting, finance, valuation techniques, Excel analysis, communication, client relationship building, report writing, collaboration | 05-11 | <!-- JobID: ReELY4RfiC -->
 | [2025 Summer Financial Analyst Intern](https://www.indeed.com/viewjob?jk=52b7d88f5f842d8c&tk=1iqrr679pj2p486u&from=serp&vjs=3) | EVERSOURCE | Westwood, MA | financial analysis, financial model management, understanding of financial statements, financial concepts, communication (oral and written), detail orientation, teamwork, customer focus, computerized business systems, MS Office applications, Power Plan, Planning Analytics (TM1), Power Business Intelligence | 05-09 | <!-- JobID: kx2jVlFB7O -->
 | [Finance IS Intern- Fall 2025](https://www.indeed.com/viewjob?jk=79e875ed860b8b91&tk=1iqru8k0ij0po84t&from=serp&vjs=3) | ABB | Mebane, NC | Finance and Accounting, Budgeting, Cost center accounting, Variance analysis, Data analysis, ERP systems (SAP ECC or SAP CFIN), AI/ML model training, Data cleaning, Automation of financial reports, Presentation and reporting, Critical thinking, Task organization and prioritization, Collaboration and communication | 05-09 | <!-- JobID: b4Jat5ChkM -->
