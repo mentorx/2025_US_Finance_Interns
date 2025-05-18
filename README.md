@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 05-15_
+_Last updated: 05-17_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Summer 2025 Internship Program](https://www.indeed.com/viewjob?jk=2611430a95b95e46&tk=1irapsoaf297o0ef&from=serp&vjs=3) | CSI Group | Township of Wall, NJ 07727 | Tax preparation, Financial analysis, Client service, Research on tax regulations, Document drafting and organization, Microsoft Office Suite proficiency, Interpersonal skills, Organizational skills, Communication skills, Problem-solving, Collaboration | 05-15 | <!-- JobID: 7g6mXYFvcV -->
 | [Summer 2025 Research Intern, Corporate Valuation Advisory Services, New York](https://www.indeed.com/viewjob?jk=5ad0b59de352c88d&tk=1iraq7709i0hm871&from=serp&vjs=3) | Houlihan Lokey | New York, NY | Finance, Accounting, Economics, Analytical abilities, Financial skills, Excel, Verbal communication, Written communication, Cooperative teamwork, Research, Data collection, Data entry, Note taking, Basic calculations | 05-15 | <!-- JobID: R6TDA28bMb -->
 | [2025 Fall Digital Transformation Intern](https://www.indeed.com/viewjob?jk=3ab1f9a1f85e4c8c&tk=1ir5urqe1297t062&from=serp&vjs=3) | Federal Home Loan Bank of Dallas | Irving, TX | data analysis, SQL query language, VBA or other object-oriented programming language, SSRS report builder, Excel spreadsheets and data manipulation, problem solving, attention to detail, collaboration, communication, technology use to solve problems, working with large and complex data sets, organizational skills, initiative, virtual environment adaptability | 05-13 | <!-- JobID: ZaDc2wCIul -->
 | [Summer 2025 CFO Advisory Intern (Dallas)](https://www.indeed.com/viewjob?jk=693eca304218e793&tk=1ir10qjf1go4n862&from=serp&vjs=3) | Armanino | Dallas, TX | accounting, finance, valuation techniques, Excel analysis, communication, client relationship building, report writing, collaboration | 05-11 | <!-- JobID: ReELY4RfiC -->
