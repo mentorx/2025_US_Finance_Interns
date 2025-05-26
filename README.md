@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 05-23_
+_Last updated: 05-25_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [FP&A Co-op - Fall 2025](https://www.indeed.com/viewjob?jk=57cc90627d8ce10c&tk=1irvlbeg6geei8d0&from=serp&vjs=3) | Merus | Cincinnati, OH 45202 (Mount Adams area) | Power BI, Microsoft Excel, SQL, Data pipelines development, API development, SaaS system administration, Business Analytics, Information Systems, Finance, Communication, Ownership and accountability, Prioritization, Relationship building, Resilience | 05-23 | <!-- JobID: 0feMt3of1l -->
 | [Global Delivery - Summer Internship 2025](https://www.indeed.com/viewjob?jk=9e7aa2250448dd8e&tk=1irpv93ts21es03u&from=serp&vjs=3) | State Street | Sacramento, CA | Excel, Microsoft Office applications, Bloomberg, SQL or other coding languages, financial accounting knowledge, verbal written and interpersonal communication skills, accuracy aptitude and detail orientation, self-driven motivation, curiosity and passion | 05-21 | <!-- JobID: IU7YsCsW1Z -->
 | [Park Support Center - AP/AR Finance Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=f615e81a30454870&tk=1irl1s0esggna8d0&from=serp&vjs=3) | Park Support Services PA | Homestead, PA 15120 | Accounts Payable (AP), Accounts Receivable (AR), Financial Reporting, Reconciliation, Point of Sale (POS) system, Microsoft Outlook, Microsoft Excel, Microsoft Word, Microsoft PowerPoint, Data entry, Attention to detail, Analytical skills, Problem-solving, Communication skills, Customer service skills, Ability to multitask, Teamwork, Independent work | 05-19 | <!-- JobID: K32Sf0o42C -->
 | [Financial Analyst Intern Summer 2025](https://www.indeed.com/viewjob?jk=63aacb9f98949800&tk=1irflthnbi8pl80m&from=serp&vjs=3) | Lash Glow LLC | Humble, TX 77338 | Excel/Google Sheets (pivot tables, VLOOKUP, formulas), Financial data analysis, Financial statements (P&L, balance sheet, cash flow), Analytical and problem-solving skills, Data visualization (Tableau, Power BI), SQL, Communication skills, Attention to detail, Collaboration/teamwork | 05-17 | <!-- JobID: hoLiUW3Bmi -->
