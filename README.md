@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 05-31_
+_Last updated: 06-01_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 KeyBank Wealth Management Internship - Investments](https://www.indeed.com/viewjob?jk=85e9d94e9d43a238&tk=1isk7vn9uh3n381q&from=serp&vjs=3) | KeyBank National Association | Brooklyn, OH 44144 | Wealth management, Finance, Accounting, Business, Economics, Analytical skills, Problem solving, Communication skills, Presentation skills, Excel, PowerPoint, Leadership, Teamwork | 05-31 | <!-- JobID: abUVAkKz16 -->
 | [Fall 2025 Accounting, Finance & Operations Intern](https://www.indeed.com/viewjob?jk=f88c2a72ba73c3f2&tk=1isf2uen2k8h281m&from=serp&vjs=3) | The International Center | Hybrid work in Indianapolis, IN 46204 | Excel, Financial summaries, Basic knowledge of debits and credits, Cultural awareness, Organizational skills, Communication, Team participation | 05-30 | <!-- JobID: 3B0L3SwseE -->
 | [NK Securities Research – Hackathon 2025](https://www.indeed.com/viewjob?jk=afad49e11059e5fc&tk=1is9fmir9j3hq84g&from=serp&vjs=3) | NK Securities | Remote | coding, algorithms, quantitative analysis, statistical analysis, problem-solving, analytical thinking, logic and reasoning | 05-27 | <!-- JobID: 8sxjdHtYoH -->
 | [FP&A Co-op - Fall 2025](https://www.indeed.com/viewjob?jk=57cc90627d8ce10c&tk=1irvlbeg6geei8d0&from=serp&vjs=3) | Merus | Cincinnati, OH 45202 (Mount Adams area) | Power BI, Microsoft Excel, SQL, Data pipelines development, API development, SaaS system administration, Business Analytics, Information Systems, Finance, Communication, Ownership and accountability, Prioritization, Relationship building, Resilience | 05-23 | <!-- JobID: 0feMt3of1l -->
