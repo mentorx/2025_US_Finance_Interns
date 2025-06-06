@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 06-03_
+_Last updated: 06-05_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Global Investigations Internship - Summer 2025](https://www.indeed.com/viewjob?jk=a38562edcb179bec&tk=1it0j7lkuh75c83t&from=serp&vjs=3) | J.S. Held LLC | New York, NY | Research on financial crime trends, Data gathering, cleaning, and analysis, Microsoft Office proficiency (Excel, Word, PowerPoint), Communication skills, Teamwork, Interest in Forensic Accounting | 06-05 | <!-- JobID: 2HpWKqNhkF -->
 | [Financial Analyst Internship - Fall 2025](https://www.indeed.com/viewjob?jk=2abcf58dcc2545d4&tk=1isrlkteahicq85f&from=serp&vjs=3) | MADHOUSE DEVELOPMENT SERVICES | Austin, TX 78759 (Arboretum area) | Financial analysis, Microsoft Excel, Accounting principles (GAAP), Data management and database maintenance, Cost analysis, Forecasting and budgeting, Communication and interpersonal skills, Organizational and analytical skills, Problem-solving skills, Presentation skills, Collaboration in a team environment, Attention to detail, Initiative and project management | 06-03 | <!-- JobID: 74N6sSNhvz -->
 | [Summer 2025 Intern - Biotech Investor Relations](https://www.indeed.com/viewjob?jk=e5e4585a5165bb45&tk=1isrpaecdjdm28fs&from=serp&vjs=3) | Precision Medicine Group | New York, NY | communications, healthcare knowledge, investor relations, analytical skills, research skills, writing skills, professional communication skills, detail oriented, organizational skills, multi-tasking, Microsoft Office (Word, Excel, PowerPoint), leadership experience, networking and relationship building | 06-03 | <!-- JobID: DApodznGMl -->
 | [2025 KeyBank Wealth Management Internship - Investments](https://www.indeed.com/viewjob?jk=85e9d94e9d43a238&tk=1isk7vn9uh3n381q&from=serp&vjs=3) | KeyBank National Association | Brooklyn, OH 44144 | Wealth management, Finance, Accounting, Business, Economics, Analytical skills, Problem solving, Communication skills, Presentation skills, Excel, PowerPoint, Leadership, Teamwork | 05-31 | <!-- JobID: abUVAkKz16 -->
