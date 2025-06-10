@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 06-07_
+_Last updated: 06-09_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Strategic Business Analyst Intern (Fall 2025)](https://www.indeed.com/viewjob?jk=972d90eefeb5e9cc&tk=1itb31dm5jitq85s&from=serp&vjs=3) | Dolby | San Francisco, CA 94103 (South of Market area) | financial modeling, data analysis, Microsoft Office suite, communication skills, problem solving, independent project ownership, interest in learning new software applications | 06-09 | <!-- JobID: k21s5ZCBRd -->
+| [Analyst, Liquidity and Funding Risk - Fall 2025 (Co-op/Internship) - 4 Months](https://www.indeed.com/viewjob?jk=ee4f49bc6611e833&tk=1it5v100oi8qs8bt&from=serp&vjs=3) | BMO US | Hybrid work in Chicago, IL 60606 | market risk management, risk policy frameworks, financial modelling, statistics, data analysis, data visualization, governance frameworks, regulatory compliance, communication skills, collaboration and teamwork, analytical and problem solving, influence skills | 06-07 | <!-- JobID: SIOtMojuaI -->
 | [Asset Manager Summer 2025 Internship Program](https://www.indeed.com/viewjob?jk=1bbd84af3e54745c&tk=1it0p3f9kjcfb880&from=serp&vjs=3) | KJLK & Co., LLC | Remote | finance principles, analytical skills, attention to detail, communication skills, interpersonal abilities, Microsoft Office (Excel, Outlook, PowerPoint), Zoom, quantitative skills, client onboarding, cold calling, portfolio management strategies, investment analysis, customer relationship management | 06-05 | <!-- JobID: Y17F0tF9N8 -->
 | [Global Investigations Internship - Summer 2025](https://www.indeed.com/viewjob?jk=a38562edcb179bec&tk=1it0j7lkuh75c83t&from=serp&vjs=3) | J.S. Held LLC | New York, NY | Research on financial crime trends, Data gathering, cleaning, and analysis, Microsoft Office proficiency (Excel, Word, PowerPoint), Communication skills, Teamwork, Interest in Forensic Accounting | 06-05 | <!-- JobID: 2HpWKqNhkF -->
 | [Financial Analyst Internship - Fall 2025](https://www.indeed.com/viewjob?jk=2abcf58dcc2545d4&tk=1isrlkteahicq85f&from=serp&vjs=3) | MADHOUSE DEVELOPMENT SERVICES | Austin, TX 78759 (Arboretum area) | Financial analysis, Microsoft Excel, Accounting principles (GAAP), Data management and database maintenance, Cost analysis, Forecasting and budgeting, Communication and interpersonal skills, Organizational and analytical skills, Problem-solving skills, Presentation skills, Collaboration in a team environment, Attention to detail, Initiative and project management | 06-03 | <!-- JobID: 74N6sSNhvz -->
