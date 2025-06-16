@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 06-13_
+_Last updated: 06-15_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Fall 2025 - Advanced Distribution Infrastructure - Finance/Accounting/PM - Student Internship/Co-op](https://www.indeed.com/viewjob?jk=8d19b47d7e76ee96&tk=1itqc6g8hgmt983r&from=serp&vjs=3) | Tampa Electric Company | Tampa, FL 33602 (Downtown area) | Microsoft Excel, Microsoft Word, Microsoft PowerPoint, Power BI dashboards, Financial statements & accounting, Project Controls, Budgeting and forecasting, Financial reporting, Procurement and contract review, Attention to detail, Self-start and operate independently, Collaboration and communication, Strategic thinking and sound judgment | 06-15 | <!-- JobID: nmDYTmxtGw -->
 | [Internship, Supplier Financial Health (Fall 2025)](https://www.indeed.com/viewjob?jk=0adb6f1352b835ab&tk=1itl993o2g6j1890&from=serp&vjs=3) | Tesla | Fremont, CA 94538 | Financial risk management, Financial analysis, Supplier financial health program development, Cross-functional collaboration, Communication skills, Strategic thinking, Organizational skills, Microsoft Excel, Microsoft PowerPoint | 06-13 | <!-- JobID: uHx4kOuaCv -->
 | [December 2025 Externship](https://www.indeed.com/viewjob?jk=162381a5a478536b&tk=1itl9hpg22cs908p&from=serp&vjs=3) | Equity Methods | Scottsdale, AZ 85255 (North Scottsdale area) | forecasting and budgeting, stock-based compensation expense modeling, SAS programming, technology and data analytics, accounting and finance knowledge, presentation and communication skills, intellectual curiosity, resourcefulness in learning, interest in consulting | 06-13 | <!-- JobID: GlDRuQttRp -->
 | [Fall 2025 FP&A Internship](https://www.indeed.com/viewjob?jk=c2740cd79ec50a2c&tk=1itl630sol6ha810&from=serp&vjs=3) | Altar'd State | Knoxville, TN 37919 | Financial Reporting, Budgeting, Forecasting, Data Analysis, Financial Modeling, Microsoft Excel, Communication Skills, Teamwork, Organizational Skills, Problem-solving | 06-13 | <!-- JobID: drGQQvu5OB -->
