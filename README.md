@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 06-21_
+_Last updated: 06-23_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Finance Intern - Fall 2025](https://www.indeed.com/viewjob?jk=1cd29355f03e7727&tk=1iuevq2m5gp8p84c&from=serp&vjs=3) | ABB | Cary, NC 27511 | Finance and controlling (FICO), Budgeting, Cost center accounting, Variance analysis, Data analysis, ERP systems (SAP ECC or SAP CFIN), AI model training and data cleaning, Automation of financial reports, Critical thinking, Task organization and prioritization, Collaboration and communication | 06-23 | <!-- JobID: moKPxvl9Cr -->
 | [Business Analysis Intern (Summer 2025)](https://www.indeed.com/viewjob?jk=db7d99508687bd6c&tk=1iu9qh72d22p405o&from=serp&vjs=3) | Savas Management Center LLC | Scottsdale, AZ 85254 (Paradise Valley area) | Analytical skills, Problem-solving skills, Excel proficiency, Interest in SQL, Interest in Python, Interest in Tableau, Clear communication, Attention to detail, Curious mindset, Willingness to learn | 06-21 | <!-- JobID: H9EUcFykGt -->
 | [Internship, Lease Administrator, Sales & Service Infrastructure (Fall 2025)](https://www.indeed.com/viewjob?jk=80fd6df0ae2493e9&tk=1iu9rh0neh71980l&from=serp&vjs=3) | Tesla | Fremont, CA 94538 | Finance, Accounting, Construction, Organization, Planning, Attention to detail, Multi-tasking, English language skills, Business acumen | 06-21 | <!-- JobID: ilyozGlKL8 -->
 | [2025-2026 - Commercial & Investment Bank - Markets Equity Research - Part Time Analyst Internship](https://www.indeed.com/viewjob?jk=121aa140a86a47a0&tk=1itvgn12f22ri04n&from=serp&vjs=3) | JPMorganChase | New York, NY | analytical skills, quantitative and data analysis, writing skills, interest in financial markets and economic data and trends, multi-tasking, collaboration within a team environment, organizational skills, meeting deadlines in a dynamic environment, financial modeling, valuation work, data analysis, writing research notes and reports, advising clients and management teams | 06-17 | <!-- JobID: MnQ1kWHX5L -->
