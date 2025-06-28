@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 06-25_
+_Last updated: 06-27_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 Fall Controlling Co-Op (CTG)](https://www.indeed.com/viewjob?jk=ecb850c841a0577c&tk=1iup9lon3g3jd88t&from=serp&vjs=3) | Bosch Group | Charleston, SC 29418 | Microsoft Excel, Finance, Accounting, Communication, Detail orientation, SAP, PowerBI, Knime, PowerQuery, Manufacturing environment experience | 06-27 | <!-- JobID: VOFxVv1H1y -->
+| [Financial Forecasting Internship - Fall 2025](https://www.indeed.com/viewjob?jk=6ad49777ba6cdd1e&tk=1iup9018kgqm385k&from=serp&vjs=3) | Medpace, Inc. | Cincinnati, OH 45227 (Madisonville area) | Analytical skills, Communication skills, Microsoft Excel, Organizational skills, Multitasking, Financial and business acumen, Modeling and analytical skillsets | 06-27 | <!-- JobID: prHvQYhciK -->
 | [Fall 2025 Institutional Portfolio Analyst Intern](https://www.indeed.com/viewjob?jk=4988bf8b377ab618&tk=1iuk47mklgmtt86o&from=serp&vjs=3) | FEG | Cincinnati, OH 45202 (Mount Adams area) | investment strategies, analytical skills, verbal communication, written communication, critical thinking, independent work, integrity, initiative, dependability, team orientation, data organization and synthesis, portfolio performance reconciliation, performance attribution analysis, portfolio risk analysis, strategic asset allocation studies, spending policy analysis, investment manager searches | 06-25 | <!-- JobID: 5CtM4XTh3T -->
 | [Treasury/Sales Audit & Tax Intern (2025 Semester 2) - Generation H](https://www.indeed.com/viewjob?jk=ba08687799b939d0&tk=1iuk5io2qjcnt866&from=serp&vjs=3) | Hermès Paris | New York, NY (Financial District area) | Excel (Pivot Tables, V-Lookups), SAP, Retail POS software, Balance sheet reconciliations, Credit Card Reconciliation, Journal entries, Sales & Use Tax filing, Tax audit support, Communication, Willingness to learn | 06-25 | <!-- JobID: T5BGeYGKu8 -->
 | [Fall 2025 Research Analyst Intern](https://www.indeed.com/viewjob?jk=995b4eeaad3aa26f&tk=1iuk3belhk8gj80u&from=serp&vjs=3) | FEG | Cincinnati, OH 45202 (Mount Adams area) | investment strategies, analytical skills, verbal communication, written communication, Microsoft Excel, FactSet, independent work, intellectual curiosity, team orientation | 06-25 | <!-- JobID: Kj5Y8EMss0 -->
