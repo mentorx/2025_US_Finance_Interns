@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 06-27_
+_Last updated: 07-01_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Current Interns Only - Financial Analyst Development Program, Summer 2025](https://www.indeed.com/viewjob?jk=923e2cda26324ad8&tk=1iv3ib3gth762853&from=serp&vjs=3) | Target | Minneapolis, MN 55403 (Downtown West area) | Financial analysis, Analytical rigor, Creative problem-solving, Decision-making, Leadership, Collaboration, Communication, Planning and organizational skills, Microsoft Excel (intermediate) | 07-01 | <!-- JobID: 6FXwJHKCHs -->
 | [2025 Fall Controlling Co-Op (CTG)](https://www.indeed.com/viewjob?jk=ecb850c841a0577c&tk=1iup9lon3g3jd88t&from=serp&vjs=3) | Bosch Group | Charleston, SC 29418 | Microsoft Excel, Finance, Accounting, Communication, Detail orientation, SAP, PowerBI, Knime, PowerQuery, Manufacturing environment experience | 06-27 | <!-- JobID: VOFxVv1H1y -->
 | [Financial Forecasting Internship - Fall 2025](https://www.indeed.com/viewjob?jk=6ad49777ba6cdd1e&tk=1iup9018kgqm385k&from=serp&vjs=3) | Medpace, Inc. | Cincinnati, OH 45227 (Madisonville area) | Analytical skills, Communication skills, Microsoft Excel, Organizational skills, Multitasking, Financial and business acumen, Modeling and analytical skillsets | 06-27 | <!-- JobID: prHvQYhciK -->
 | [Fall 2025 Institutional Portfolio Analyst Intern](https://www.indeed.com/viewjob?jk=4988bf8b377ab618&tk=1iuk47mklgmtt86o&from=serp&vjs=3) | FEG | Cincinnati, OH 45202 (Mount Adams area) | investment strategies, analytical skills, verbal communication, written communication, critical thinking, independent work, integrity, initiative, dependability, team orientation, data organization and synthesis, portfolio performance reconciliation, performance attribution analysis, portfolio risk analysis, strategic asset allocation studies, spending policy analysis, investment manager searches | 06-25 | <!-- JobID: 5CtM4XTh3T -->
