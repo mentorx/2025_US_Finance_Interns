@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 07-01_
+_Last updated: 07-05_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Finance & Accounting Intern - Fall 2025](https://www.indeed.com/viewjob?jk=52713b62c4619518&tk=1ivds43bfgedo8i0&from=serp&vjs=3) | UFC | Las Vegas, NV 89149 (Centennial Hills area) | Microsoft Excel, Microsoft Word, Microsoft PowerPoint, Microsoft Outlook, oral and written communication, discretion and confidentiality, ability to work independently, multi-tasking, teamwork, willingness to learn and grow, budgeting and financial forecasting tools, licensing sales reports preparation, royalty calculations, data entry and maintenance, forecasting and data analysis, understanding of licensing and financial terms | 07-05 | <!-- JobID: wDbhLAGvoX -->
 | [Current Interns Only - Financial Analyst Development Program, Summer 2025](https://www.indeed.com/viewjob?jk=923e2cda26324ad8&tk=1iv3ib3gth762853&from=serp&vjs=3) | Target | Minneapolis, MN 55403 (Downtown West area) | Financial analysis, Analytical rigor, Creative problem-solving, Decision-making, Leadership, Collaboration, Communication, Planning and organizational skills, Microsoft Excel (intermediate) | 07-01 | <!-- JobID: 6FXwJHKCHs -->
 | [2025 Fall Controlling Co-Op (CTG)](https://www.indeed.com/viewjob?jk=ecb850c841a0577c&tk=1iup9lon3g3jd88t&from=serp&vjs=3) | Bosch Group | Charleston, SC 29418 | Microsoft Excel, Finance, Accounting, Communication, Detail orientation, SAP, PowerBI, Knime, PowerQuery, Manufacturing environment experience | 06-27 | <!-- JobID: VOFxVv1H1y -->
 | [Financial Forecasting Internship - Fall 2025](https://www.indeed.com/viewjob?jk=6ad49777ba6cdd1e&tk=1iup9018kgqm385k&from=serp&vjs=3) | Medpace, Inc. | Cincinnati, OH 45227 (Madisonville area) | Analytical skills, Communication skills, Microsoft Excel, Organizational skills, Multitasking, Financial and business acumen, Modeling and analytical skillsets | 06-27 | <!-- JobID: prHvQYhciK -->
