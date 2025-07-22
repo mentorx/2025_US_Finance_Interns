@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 07-19_
+_Last updated: 07-21_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Intern, USTV Finance – Fall 2025](https://www.indeed.com/viewjob?jk=ddf32bd3c28fdbad&tk=1j0n30f51m924801&from=serp&vjs=3) | Sony Pictures Entertainment, Inc. | Culver City, CA | Finance, Accounting, Analytics, Excel, MS Suite, Organizational skills | 07-21 | <!-- JobID: 4DnhTGJq4l -->
+| [Finance & Accounting Intern - Fall 2025](https://www.indeed.com/viewjob?jk=4d5ee099aaef8f10&tk=1j0n2mg62h73h868&from=serp&vjs=3) | The Children's Museum of Indianapolis | Hybrid work in Indianapolis, IN 46208 | Accounting, Financial data governance, Audit standards and regulatory requirements, Microsoft Word, Microsoft Excel, Problem-solving, Analytical skills, Mathematical skills, Research skills, Organizational skills, Time management, Attention to detail, Accrual accounting concepts, Accounting and auditing standards knowledge, Written communication, Verbal communication, Ability to work independently | 07-21 | <!-- JobID: RrE0osRDwM -->
 | [Intern, WW Theatrical Marketing & Distribution Finance – Fall 2025](https://www.indeed.com/viewjob?jk=1f462d761ae0e017&tk=1j0hsen03jcf6819&from=serp&vjs=3) | Sony Pictures Entertainment, Inc. | Culver City, CA | Financial Planning & Analysis, Budgeting, Microsoft Excel, Microsoft Office, Microsoft Word, Microsoft PowerPoint, Written communication, Verbal communication, Ability to work in fast-paced environment, Passion for entertainment industry | 07-19 | <!-- JobID: nQDeFoNdWi -->
 | [Tax Data Management & Innovation Graduate Intern, Fall 2025](https://www.indeed.com/viewjob?jk=173ce3cbff04e451&tk=1j0hsjrv4gqpq87f&from=serp&vjs=3) | The Walt Disney Company (Corporate) | Celebration, FL | Tax knowledge, Technology skills, Problem-solving, Attention to detail, Self-starter, Time management, Organizational skills, Interpersonal skills, Alteryx, Microsoft Excel, PowerPoint, SQL, APIs, Python, Power Apps, Power BI, ONESOURCE software, Workfront, SharePoint | 07-19 | <!-- JobID: huBz9iSyIN -->
 | [Intern, BMW FS Strategic Planning & Steering - Fall 2025](https://www.indeed.com/viewjob?jk=3a240bf1f919ce55&tk=1j0i04drsgkvb8e2&from=serp&vjs=3) | BMW | Woodcliff Lake, NJ | Strategic business development, Executive request management, Committee meeting preparation, Corporate strategy initiatives, Cross-functional strategy projects, Reporting and data analysis, Market and industry trend analysis, Leadership workshop coordination, Communication skills, Time management, Team collaboration | 07-19 | <!-- JobID: Pm4fhp7Kt5 -->
