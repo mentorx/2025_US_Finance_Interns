@@ -8,10 +8,12 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 07-23_
+_Last updated: 07-25_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [Finance Intern - Memphis, TN (Fall/Spring 2025)](https://www.indeed.com/viewjob?jk=0b39022db80078f6&tk=1j11arbn0gha085q&from=serp&vjs=3) | Ducks Unlimited, Inc. | Memphis, TN 38120 (River Oaks-Kirby-Balmoral area) | Bachelor of Accountancy or Finance degree, GPA of 3.0 or higher, Microsoft Office suite, Analytical skills, Interpersonal skills, Communication skills, Writing skills, Organizational skills, Ability to work independently or in a group | 07-25 | <!-- JobID: 2UCctHJLmo -->
+| [2025-2026 Campus Internship – Accounting / Finance](https://www.indeed.com/viewjob?jk=3726c5f6d176e383&tk=1j11dslkng6r983h&from=serp&vjs=3) | Dow | Midland, MI | Technical Accounting, Communication, Time Management, Microsoft Excel, Data Management, Detail-Oriented, Internal Controls, Analytical Thinking | 07-25 | <!-- JobID: 7FJ7PWDHly -->
 | [Finance Intern - Fall 2025](https://www.indeed.com/viewjob?jk=73f99474f890b657&tk=1j0s8c99tgb1k8c1&from=serp&vjs=3) | ABB | Cary, NC 27511 | Finance and controlling (FICO) functions, Budgeting, Cost center accounting, Variance analysis, Collaboration with finance and costing teams, Data analysis, ERP systems (SAP ECC or SAP CFIN), AI model training and data cleaning, Automation of financial reports or tasks, Critical thinking, Task organization and prioritization, Multitasking, Team collaboration and communication | 07-23 | <!-- JobID: UT7RGuZIjT -->
 | [ALPFA Conference 2025 Early Career](https://www.indeed.com/viewjob?jk=6a1531a2368f4e40&tk=1j0s73vi7gnmb849&from=serp&vjs=3) | State Street | Hybrid work in Boston, MA 02111 | analytical skills, time management skills, communication skills, research industry regulations, interpersonal skills, detail oriented, deadline driven, financial services experience, technology experience | 07-23 | <!-- JobID: YLomydgi2g -->
 | [Capital Co-Op - Fall 2025](https://www.indeed.com/viewjob?jk=1e279978527abf1f&tk=1j0s91ao3goia815&from=serp&vjs=3) | Merus | Cincinnati, OH 45202 (Mount Adams area) | Financial analysis & modeling, Investor management, Loan administration, Database maintenance, Microsoft Office Suite (Outlook, Excel, Word, PowerPoint), Communication skills, Organizational skills, Prioritization and time management, Relationship building, Attention to detail, Resilient work ethic | 07-23 | <!-- JobID: 3kehyC4igU -->
