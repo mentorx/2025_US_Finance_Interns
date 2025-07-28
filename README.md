@@ -8,10 +8,13 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 07-25_
+_Last updated: 07-27_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [International TV Production Finance Intern – Miami – Fall 2025](https://www.indeed.com/viewjob?jk=839e0d94065025e6&tk=1j16iaqrjg3gp82o&from=serp&vjs=3) | Sony Pictures Entertainment, Inc. | Miami, FL 33131 (Brickell area) | Excel, Finance background, Accounting experience, Financial Modeling, Spanish fluency | 07-27 | <!-- JobID: jO68aDpUDO -->
+| [Intern, Payroll - Fall 2025](https://www.indeed.com/viewjob?jk=8e49522d1ed1eb6e&tk=1j16h81iji96f8i3&from=serp&vjs=3) | Sony Pictures Entertainment, Inc. | Culver City, CA | Payroll processes documentation, Payroll audits support, Payroll data and analytics tools, Microsoft Excel (basic functions, pivot tables, VLOOKUP), Power BI, UKG analytics, Attention to detail, Organizational skills, Written and verbal communication, Eagerness to learn new systems and data tools, Handling sensitive and confidential information, Collaborative mindset | 07-27 | <!-- JobID: PuW8deDVwa -->
+| [Accounting/Finance Internship - Fall 2025](https://www.indeed.com/viewjob?jk=01540fc0f01d8037&tk=1j16h81iji96f8i3&from=serp&vjs=3) | MCHS Family of Services | Redford, MI 48240 | Accounting, Finance, Communication skills, Ability to commute, Eager to learn | 07-27 | <!-- JobID: 28xdy8XCLw -->
 | [Finance Intern - Memphis, TN (Fall/Spring 2025)](https://www.indeed.com/viewjob?jk=0b39022db80078f6&tk=1j11arbn0gha085q&from=serp&vjs=3) | Ducks Unlimited, Inc. | Memphis, TN 38120 (River Oaks-Kirby-Balmoral area) | Bachelor of Accountancy or Finance degree, GPA of 3.0 or higher, Microsoft Office suite, Analytical skills, Interpersonal skills, Communication skills, Writing skills, Organizational skills, Ability to work independently or in a group | 07-25 | <!-- JobID: 2UCctHJLmo -->
 | [2025-2026 Campus Internship – Accounting / Finance](https://www.indeed.com/viewjob?jk=3726c5f6d176e383&tk=1j11dslkng6r983h&from=serp&vjs=3) | Dow | Midland, MI | Technical Accounting, Communication, Time Management, Microsoft Excel, Data Management, Detail-Oriented, Internal Controls, Analytical Thinking | 07-25 | <!-- JobID: 7FJ7PWDHly -->
 | [Finance Intern - Fall 2025](https://www.indeed.com/viewjob?jk=73f99474f890b657&tk=1j0s8c99tgb1k8c1&from=serp&vjs=3) | ABB | Cary, NC 27511 | Finance and controlling (FICO) functions, Budgeting, Cost center accounting, Variance analysis, Collaboration with finance and costing teams, Data analysis, ERP systems (SAP ECC or SAP CFIN), AI model training and data cleaning, Automation of financial reports or tasks, Critical thinking, Task organization and prioritization, Multitasking, Team collaboration and communication | 07-23 | <!-- JobID: UT7RGuZIjT -->
