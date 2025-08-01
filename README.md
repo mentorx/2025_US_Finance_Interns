@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 07-27_
+_Last updated: 07-31_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 Asset Liability Management Summer Internship](https://www.indeed.com/viewjob?jk=78aabefc637f3367&tk=1j1grh2hulvtg86o&from=serp&vjs=3) | New York Life Insurance Company | Hybrid work in New York, NY | Statistics, Financial Engineering, Python programming, Object-oriented programming (C++, VB.Net, C#), Quantitative modeling, Data analysis, Communication skills, Analytical mindset, Teamwork | 07-31 | <!-- JobID: tYTkDBPbJI -->
 | [International TV Production Finance Intern – Miami – Fall 2025](https://www.indeed.com/viewjob?jk=839e0d94065025e6&tk=1j16iaqrjg3gp82o&from=serp&vjs=3) | Sony Pictures Entertainment, Inc. | Miami, FL 33131 (Brickell area) | Excel, Finance background, Accounting experience, Financial Modeling, Spanish fluency | 07-27 | <!-- JobID: jO68aDpUDO -->
 | [Intern, Payroll - Fall 2025](https://www.indeed.com/viewjob?jk=8e49522d1ed1eb6e&tk=1j16h81iji96f8i3&from=serp&vjs=3) | Sony Pictures Entertainment, Inc. | Culver City, CA | Payroll processes documentation, Payroll audits support, Payroll data and analytics tools, Microsoft Excel (basic functions, pivot tables, VLOOKUP), Power BI, UKG analytics, Attention to detail, Organizational skills, Written and verbal communication, Eagerness to learn new systems and data tools, Handling sensitive and confidential information, Collaborative mindset | 07-27 | <!-- JobID: PuW8deDVwa -->
 | [Accounting/Finance Internship - Fall 2025](https://www.indeed.com/viewjob?jk=01540fc0f01d8037&tk=1j16h81iji96f8i3&from=serp&vjs=3) | MCHS Family of Services | Redford, MI 48240 | Accounting, Finance, Communication skills, Ability to commute, Eager to learn | 07-27 | <!-- JobID: 28xdy8XCLw -->
