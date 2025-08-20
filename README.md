@@ -8,10 +8,11 @@
 ## <a href="https://mentorx.net">蔓藤教育：美国求职，美国实习，英澳实习求职专家</a>
 ## Latest Internship Opportunities
 
-_Last updated: 08-11_
+_Last updated: 08-19_
 
 | Job Title | Company | Location | Required Skills | Posted |
 |-----------|---------|----------|-----------------|--------|
+| [2025 Investment Banking Case Competition - Australia](https://www.indeed.com/viewjob?jk=4fa476852f4dd189&tk=1j2tb77qsiv8o88n&from=serp&vjs=3) | JPMorganChase | Sydney NSW | Financial analysis & modeling (DCF, comparables), Valuation, Corporate finance / Capital markets knowledge (ECM/DCM/M&A), Presentation design (PowerPoint) and delivery, Excel (advanced financial spreadsheets), Analytical thinking & quantitative reasoning, Research (industry, market, company), Strategic recommendation / problem solving, Verbal communication / defending recommendations (Q&A), Teamwork / collaboration (work in teams of 2-4), Time management and meeting deadlines, Attention to detail | 08-17 | <!-- JobID: Lna53O90oT -->
 | [Accounting & Finance Intern - Fall 2025](https://www.indeed.com/viewjob?jk=706f4d0d51cf86f0&tk=1j2d50289j73a860&from=serp&vjs=3) | C&S Wholesale Grocers, LLC | Keene, NH 03435 | Excel, Google suite of products, Hyperion, Smartview, Strong communication, Problem solving, Teamwork, Organization, Attention to detail | 08-11 | <!-- JobID: qTRa1H7fQm -->
 | [2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://www.indeed.com/viewjob?jk=e5fa7a9f44143e98&tk=1j1oj3lb8jn3886o&from=serp&vjs=3) | JPMorganChase | Chicago, IL 60645 (Rogers Park area) | Analytical skills, Quantitative skills, Problem-solving skills, Communication skills, Interest in banking analytics and global markets, Collaboration skills, R programming, MATLAB, SQL, Data visualization tools (Tableau or Power BI), Organizational skills, Mathematical modeling and algorithm development | 08-03 | <!-- JobID: 4PwP2k4bBn -->
 | [2025 Asset Liability Management Summer Internship](https://www.indeed.com/viewjob?jk=78aabefc637f3367&tk=1j1grh2hulvtg86o&from=serp&vjs=3) | New York Life Insurance Company | Hybrid work in New York, NY | Statistics, Financial Engineering, Python programming, Object-oriented programming (C++, VB.Net, C#), Quantitative modeling, Data analysis, Communication skills, Analytical mindset, Teamwork | 07-31 | <!-- JobID: tYTkDBPbJI -->
